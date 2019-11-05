@@ -1,0 +1,21 @@
+from get_data import get_data
+from gensim.test.utils import common_texts
+from gensim.models import Word2Vec
+
+text = get_data()
+train_model = Word2Vec(text, size=100, window=5, min_count=1, workers=4)
+train_model.save('./MyModel')
+train_model.wv.save_word2vec_format('./mymodel.txt', binary=False)
+for key in model.wv.vocab:
+    print(key)
+    print(model.wv.vocab[key])
+print('linear' in model.wv.vocab)
+print(len(model.wv.vocab))
+
+print(model.wv.similarity('deap learning', 'deap learn'))
+print(model.wv.similarity('optimize', 'optimization'))
+
+print(model.wmdistance("image editing","image manipulation"))
+
+print(model.wv.distance('human', 'user'))
+print(model.wv.distance('human', 'survey'))

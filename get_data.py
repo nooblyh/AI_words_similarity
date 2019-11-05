@@ -21,7 +21,6 @@ def get_data():
         ctx=re.sub("[\.\!\/_,$%^*(+\"\']+|[+——！，。?？、~@·#￥%……&*（：）\)-]+", " ",ctx)
         ctx=ctx.split()
         text.append(ctx)
-    print(text);
 
     # 关闭数据库连接
     db.close()
