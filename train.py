@@ -1,7 +1,5 @@
 from get_data import get_data
-from gensim.test.utils import common_texts
 from gensim.models import Word2Vec
-from cosine_distance import cosine_similarity;
 import time
  
 localtime = time.asctime( time.localtime(time.time()))

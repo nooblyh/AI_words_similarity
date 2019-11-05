@@ -1,5 +1,6 @@
-from gensim.test.utils import common_texts
 from gensim.models import Word2Vec
+from cosine_distance import cosine_similarity;
+
 model = Word2Vec.load('./modelfile/MyModel')
 
 print("----------length----------")
