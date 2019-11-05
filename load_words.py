@@ -13,7 +13,7 @@ def get_relative_words(word):
 
 def get_vectors(words,model):
     vectors = {}
-    for word in words:
+    for word in words and word in model:
         vectors[word] = model[word]
     print(vectors)
     return vectors
