@@ -22,8 +22,6 @@ def get_relative_words(word):
 def find_similar(words, model, shrehold=2.0):
     ls = itertools.combinations(words, 2)
     for l in ls:
-        if l[0] == l[1]:
-            continue
         disctance = model.wmdistance(l[0],l[1])
         if shrehold > disctance:
             print(l)
