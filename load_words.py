@@ -20,4 +20,4 @@ def generate_pair(words,model):
 if __name__ == "__main__":
     words = get_relative_words("deep learning")
     model = Word2Vec.load('./modelfile/MyModel')
-    generate_pair(words)
+    generate_pair(words,model)
