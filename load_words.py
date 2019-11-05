@@ -11,22 +11,13 @@ def get_relative_words(word):
             words.append(key["name"])
         return words
 
-def get_vectors(words,model):
-    vectors = {}
-    for word in words:
-        print(word)
-        if word in model:
-            vectors[word] = model[word]
-    print(vectors)
-    return vectors
-
-def generate_pair(vectors):
-    ls = itertools.combinations(vectors, 2)
+def generate_pair(words,model):
+    ls = itertools.combinations(words, 2)
     for l in ls:
         print(l)
+        print(model.wmdistance(l[0],l[1]))
         
 if __name__ == "__main__":
     words = get_relative_words("deep learning")
     model = Word2Vec.load('./modelfile/MyModel')
-    vectors = get_vectors(words,model)
-    generate_pair(vectors)
+    generate_pair(words)
