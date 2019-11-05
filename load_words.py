@@ -25,7 +25,18 @@ def find_similar(words, model, shrehold=2.0):
         disctance = model.wmdistance(l[0],l[1])
         if shrehold > disctance:
             print(l)
-            print(model.wmdistance(l[0],l[1]))
+            print(disctance)
+            if(word_count(l[0])>word_count(l[1])):
+                print("choose %s"%l[0])
+            else:
+                print("choose %s"%l[1])
+            
+
+def word_count(word):
+    sum = 0
+    for w in word.split():
+        sum += model.wv.vocab[w].count
+    return sum
 
 # example
 if __name__ == "__main__":
