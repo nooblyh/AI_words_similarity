@@ -11,7 +11,7 @@ with open("./db5.json",'r') as load_f:
 
 list = {}
 model = Word2Vec.load('./modelfile/MyModel')
-shrehold = 0.1
+threshold = 0.1
 
 ls = itertools.combinations(words, 2)
 for l in ls:

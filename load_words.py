@@ -19,11 +19,11 @@ def get_relative_words(word):
             words.append(key["name"])
         return words
 
-def find_similar(words, model, shrehold=2.0):
+def find_similar(words, model, threshold=2.0):
     ls = itertools.combinations(words, 2)
     for l in ls:
         disctance = model.wmdistance(l[0],l[1])
-        if shrehold > disctance:
+        if threshold > disctance:
             print(l)
             print(disctance)
             if(word_count(l[0]) > word_count(l[1])):
