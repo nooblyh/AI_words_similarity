@@ -26,7 +26,7 @@ def find_similar(words, model, shrehold=2.0):
         if shrehold > disctance:
             print(l)
             print(disctance)
-            if(word_count(l[0])>word_count(l[1])):
+            if(word_count(l[0]) > word_count(l[1])):
                 print("choose %s"%l[0])
             else:
                 print("choose %s"%l[1])
@@ -35,7 +35,10 @@ def find_similar(words, model, shrehold=2.0):
 def word_count(word):
     sum = 0
     for w in word.split():
-        sum += model.wv.vocab[w].count
+        if w in model:
+            sum += model.wv.vocab[w].count
+        else:
+            print("!!!!!%s not exist!!!!!"%w)
     return sum
 
 # example
