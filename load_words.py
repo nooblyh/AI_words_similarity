@@ -2,6 +2,14 @@ import json
 import itertools
 from gensim.models import Word2Vec
 
+def get_center_words():
+    words = []
+    with open("./db5.json",'r') as load_f:
+        load_dict = json.load(load_f)
+        for key in load_dict:
+            words.append(key)
+    return words
+
 def get_relative_words(word):
     with open("./db5.json",'r') as load_f:
         load_dict = json.load(load_f)
@@ -11,13 +19,18 @@ def get_relative_words(word):
             words.append(key["name"])
         return words
 
-def generate_pair(words,model):
+def find_similar(words, model, shrehold=1.0):
     ls = itertools.combinations(words, 2)
     for l in ls:
-        print(l)
-        print(model.wmdistance(l[0],l[1]))
-        
+        disctance = model.wmdistance(l[0],l[1])
+        if shrehold > disctance:
+            print(l)
+            print(model.wmdistance(l[0],l[1]))
+
+# example
 if __name__ == "__main__":
-    words = get_relative_words("deep learning")
     model = Word2Vec.load('./modelfile/MyModel')
-    generate_pair(words,model)
+    center_words=get_center_words()
+    for center_word in center_words:
+        words = get_relative_words(center_word)
+        find_similar(words,model)
