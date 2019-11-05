@@ -6,16 +6,6 @@ text = get_data()
 model = Word2Vec(text, size=100, window=5, min_count=1, workers=4)
 model.save('./MyModel')
 model.wv.save_word2vec_format('./mymodel.txt', binary=False)
-for key in model.wv.vocab:
-    print(key)
-    print(model.wv.vocab[key])
 print('linear' in model.wv.vocab)
 print(len(model.wv.vocab))
-
-print(model.wv.similarity('deap learning', 'deap learn'))
-print(model.wv.similarity('optimize', 'optimization'))
-
 print(model.wmdistance("image editing","image manipulation"))
-
-print(model.wv.distance('human', 'user'))
-print(model.wv.distance('human', 'survey'))
