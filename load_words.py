@@ -14,7 +14,7 @@ def get_relative_words(word):
 def get_vectors(words,model):
     vectors = {}
     for word in words:
-        if word in model:
+        if model.has_key(word):
             vectors[word] = model[word]
     print(vectors)
     return vectors
