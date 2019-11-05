@@ -31,6 +31,8 @@ def find_similar(words, model, shrehold=2.0):
 if __name__ == "__main__":
     model = Word2Vec.load('./modelfile/MyModel')
     center_words=get_center_words()
-    for center_word in center_words:
-        words = get_relative_words(center_word)
-        find_similar(words,model)
+    with open("./db5.json",'r') as load_f:
+        load_dict = json.load(load_f)
+        for center_word in load_dict:
+            words = get_relative_words(center_word)
+            find_similar(words,model)
