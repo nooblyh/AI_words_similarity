@@ -9,3 +9,7 @@ model.wv.save_word2vec_format('./mymodel.txt', binary=False)
 print('linear' in model.wv.vocab)
 print(len(model.wv.vocab))
 print(model.wmdistance("image editing","image manipulation"))
+print(model.wmdistance("computer","in"))
+
+print("----------cos----------")
+print(cosine_similarity(model['editing'],model['manipulation']))
