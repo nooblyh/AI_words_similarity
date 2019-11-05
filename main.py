@@ -13,6 +13,6 @@ print(model.wmdistance("image editing","image manipulation"))
 print(model.wmdistance("computer","human"))
 
 print("----------cos----------")
-print(model['editing'])
-print(model['manipulation'])
 print(cosine_similarity(model['editing'],model['manipulation']))
+print(model.wmdistance("image editing","image manipulation"))
+print(model.wmdistance("computer","human"))
