@@ -11,7 +11,7 @@ def get_data():
     # 使用cursor()方法获取操作游标 
     cursor = db.cursor()
     text=[]
-    sql = "SELECT * FROM AI_Academic_2019 LIMIT 1,10"
+    sql = "SELECT * FROM AI_Academic_2019"
     cursor.execute(sql)
 
     results = cursor.fetchall()
