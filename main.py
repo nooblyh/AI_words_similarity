@@ -14,5 +14,4 @@ print(model.wmdistance("computer","human"))
 
 print("----------cos----------")
 print(cosine_similarity(model['editing'],model['manipulation']))
-print(cosine_similarity(model["image editing"],model["image manipulation"]))
 print(cosine_similarity(model["computer"],model["human"]))
