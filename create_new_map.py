@@ -9,7 +9,7 @@ with open("spec.txt","r") as dict_file:
             for d_w in dict_file:
                 if("/" in d_w):
                     index = d_w.index("/")
-                    if model.wmdistance(d_w[0,index],w) < 5 or model.wmdistance(d_w[index+1:],w) < 5:
+                    if model.wmdistance(d_w[0:index],w) < 5 or model.wmdistance(d_w[index+1:],w) < 5:
                         print(d_w[0,index])
                 else:
                     if model.wmdistance(d_w,w) < 5:
