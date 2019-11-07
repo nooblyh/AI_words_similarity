@@ -2,7 +2,7 @@ from gensim.models import Word2Vec
 
 threshold = 10
 model = Word2Vec.load('./modelfile/MyModel')
-with open("spec.txt","r") as dict_file:
+with open("dict.txt","r") as dict_file:
     with open("words.txt","r") as words_file:
         words = words_file.read().splitlines()
         for w in words:
