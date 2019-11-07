@@ -1,6 +1,6 @@
 from gensim.models import Word2Vec
 
-threshold = 10
+threshold = 5
 model = Word2Vec.load('./modelfile/MyModel')
 with open("dict.txt","r") as dict_file:
     with open("words.txt","r") as words_file:
