@@ -12,7 +12,7 @@ with open("dict.txt","r") as dict_file:
                 if("/" in d_w):
                     index = d_w.index("/")
                     if model.wmdistance(d_w[0:index],w) < threshold or model.wmdistance(d_w[index+1:],w) < threshold:
-                        print(d_w[0,index])
+                        print(d_w[0:index])
                 else:
                     if model.wmdistance(d_w,w) < threshold:
                         print(d_w)
