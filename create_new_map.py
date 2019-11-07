@@ -16,5 +16,5 @@ with open("dict.txt","r") as dict_file:
                 else:
                     if model.wmdistance(d_w,w) < threshold:
                         print(d_w, end = " "),
-            print("\b\n")
+            print("\b")
 
