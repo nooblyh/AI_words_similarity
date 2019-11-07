@@ -1,0 +1,77 @@
+natural language generation/nlg
+tensor processing units/tpu
+conditional random field/crf
+stacked deconvolutional network/sdn
+linear discriminant analysis/lda
+hidden markov model/hmm
+quantized neural network/qnn
+artificial intelligence/ai
+leave-one-out/loo
+radial basis function/rbf
+principal component analysis/pca
+k-nearest neighbours algorithm/knn
+markov chain monte carlo/mcmc
+latent dirichlet allocation/lda
+concept learning system/cls
+reinforcement learning/rl
+expectation-maximization/em
+reproducing kernel hilbert space/rkhs
+simultaneous localization and mapping/slam
+no free lunch theorem/nfl
+receiver operating characteristic/roc
+automatic speech recognition/asr
+inductive logic programming/ilp
+convolutional neural network/cnn
+long-short term memory/lstm
+maximum likelihood estimation/mle
+international conference for machine learning/icml
+bi-directional long-short term memory/bi-lstm
+adaptive resonance theory/art
+independent component analysis/ica
+isometric mapping/isomap
+wasserstein gan/wgan
+heterogeneous information network/hin
+multi-response linear regression/mlr
+bag of words/bow
+generative adversarial networks/gan
+classification and regression tree/cart
+deep convolutional generative adversarial network/dcgan
+minimal description length/mdl
+feedforward neural networks/fnn
+backpropagation/bp
+jensen-shannon divergence/jsd
+improved iterative scaling/iis
+d-separation/directed separation
+independent and identically distributed/i.i.d.
+conditional probability table/cpt
+neighbourhood component analysis/nca
+error correcting output codes/ecoc
+one-dependent estimator/ode
+log odds/logit
+area under roc curve/auc
+multilayer perceptron/mlp
+gated recurrent net/grn
+structural risk minimization/srm
+batch normalization/bn
+false positive rate/fpr
+proximal gradient descent/pgd
+t-distribution stochastic neighbour embedding/t-sne
+restricted isometry property/rip
+true positive rate/tpr
+bayes model averaging/bma
+extreme learning machine/elm
+break-event point/bep
+support vector machine/svm
+self-organizing map/som
+restricted boltzmann machine/rbm
+genetic algorithm/ga
+machine translation/mt
+conference on neural information processing systems/nips
+learning vector quantization/lvq
+rectified linear unit/relu
+layer-wise adaptive rate scaling/lars
+kernelized linear discriminant analysis/klda
+cascade/coalesced
+particle swarm optimization/pso
+artificial general intelligence/agi
+deep neural network/dnn

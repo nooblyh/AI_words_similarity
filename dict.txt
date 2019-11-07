@@ -9,7 +9,6 @@ american
 chemometric
 finder
 curriculum
-natural language generation/nlg
 chromosome
 institutional
 ball
@@ -97,7 +96,6 @@ script
 actuator
 account
 angle
-reinforcement learning
 low power
 law of large number
 panoramic
@@ -131,7 +129,6 @@ deductive
 data application
 asymmetric
 extremity
-tensor processing units/tpu
 web service
 bridge
 blind
@@ -224,7 +221,6 @@ contrast
 robot path planning
 server
 space model
-automatic speech recognition
 experimental
 automatic recognition
 interconnected
@@ -374,7 +370,6 @@ feed
 swimming
 woman
 self organising
-conditional random field/crf
 chemical
 ahp
 structured light
@@ -460,7 +455,6 @@ discourse
 off
 flight
 handwriting
-stacked deconvolutional network/sdn
 monitoring using
 identification
 element method
@@ -492,7 +486,6 @@ machinery
 propositional
 anthropomorphic
 based similarity
-linear discriminant analysis/lda
 fuzzy inference system
 tag
 library
@@ -667,7 +660,6 @@ navigation mobile robot
 using ant
 foot
 robotic assembly
-hidden markov model/hmm
 algorithm multi
 categorization
 surface reconstruction
@@ -745,7 +737,6 @@ clock
 achieve
 locating
 flexible joint robot
-extreme learning machine
 network fuzzy
 declarative
 microphone array
@@ -820,7 +811,6 @@ offline
 damping
 control algorithm
 local feature
-quantized neural network/qnn
 cancellation
 agent
 based nonlinear
@@ -840,7 +830,6 @@ transcription
 kinematics
 wave
 robotically assisted
-artificial intelligence/ai
 neural network analysis
 heterogeneity
 object based
@@ -851,7 +840,6 @@ markov chain
 quaternion
 fault diagnosis
 missing
-convolutional neural network
 robot controller
 forecasting model
 pass
@@ -922,7 +910,6 @@ human detection
 vulnerability
 masking
 coherent
-leave-one-out/loo
 child
 increased
 avatar
@@ -1072,7 +1059,6 @@ adaptive neural network
 convolutional
 vr
 structured variational inference
-independent component analysis
 symptom
 object
 bidding
@@ -1156,7 +1142,6 @@ quantization
 mobile device
 personal
 robot manipulator
-radial basis function/rbf
 strong
 forward
 neural network algorithm
@@ -1201,7 +1186,6 @@ cutting plane algorithm
 manager
 searching
 polymorphism
-principal component analysis/pca
 substrate
 involving
 target detection
@@ -1290,7 +1274,6 @@ refinement
 sensor system
 classroom
 bayes error
-k-nearest neighbours algorithm/knn
 local conditional probability distribution
 signature verification
 time series prediction
@@ -1474,9 +1457,7 @@ normalization
 representing
 web page
 denoising autoencoder
-markov chain monte carlo/mcmc
 sliding mode controller
-latent dirichlet allocation/lda
 document
 search method
 combining
@@ -1758,7 +1739,6 @@ moving target
 knowledge base
 electrical
 railway
-concept learning system/cls
 nonlinearity
 data integration
 multiple criterion
@@ -1788,7 +1768,6 @@ projection
 control system design
 sensorimotor
 photo
-reinforcement learning/rl
 crossover
 accurate
 miniature
@@ -1822,7 +1801,6 @@ transductive learning
 bilinear
 grammatical
 handwritten chinese
-expectation-maximization/em
 unknown
 treated
 compression
@@ -1947,7 +1925,6 @@ network technique
 sequential pattern
 complex valued
 optic
-reproducing kernel hilbert space/rkhs
 autoencoder
 state of
 constrained optimization
@@ -1968,7 +1945,6 @@ cooperation
 painting
 hilbert space
 distance metric learning
-simultaneous localization and mapping/slam
 congestion
 assurance
 furnace
@@ -2066,7 +2042,6 @@ match
 curvature
 technique based
 artifact
-no free lunch theorem/nfl
 analysis method
 capital
 decision model
@@ -2161,7 +2136,6 @@ consideration
 access
 inter-cluster similarity
 hinge loss function
-receiver operating characteristic/roc
 configuration
 chromatographic
 hybrid
@@ -2232,7 +2206,6 @@ compliance
 smart grid
 multi agent system
 accounting
-cascade
 based object
 gini index
 to speech
@@ -2241,7 +2214,6 @@ moment
 array
 mining approach
 minimizing
-automatic speech recognition/asr
 exercise
 varying
 service based
@@ -2284,7 +2256,6 @@ winner
 bayes
 embedding
 epilepsy
-inductive logic programming/ilp
 marker
 experimental result
 propagation
@@ -2530,7 +2501,6 @@ visual attention
 information retrieval
 bond
 adaptive fuzzy
-convolutional neural network/cnn
 chemistry
 commercial
 machine using
@@ -2569,7 +2539,6 @@ nested
 experience
 numeral
 mechanical
-long-short term memory/lstm
 assembly
 image processing
 locally
@@ -2589,7 +2558,6 @@ isolation
 diversity measure
 inclusion
 evolution algorithm
-maximum likelihood estimation/mle
 sentiment
 managing
 generative moment matching network
@@ -2612,7 +2580,6 @@ robot manipulator using
 performance comparison
 kalman filtering
 design system
-international conference for machine learning/icml
 drug
 model predictive control
 avoiding
@@ -2655,7 +2622,6 @@ sar
 infrastructure
 shadow
 mirror
-artificial intelligence
 description
 shape based
 ambient intelligence
@@ -2724,7 +2690,6 @@ stereotactic
 renal
 biomechanical
 deep
-bi-directional long-short term memory/bi-lstm
 feature based
 error correction
 mesh network
@@ -2886,7 +2851,6 @@ aided
 computational model
 artmap
 hopfield neural network
-adaptive resonance theory/art
 diffusion
 lymph
 intracranial
@@ -2897,7 +2861,6 @@ lyapunov
 non
 boolean
 meeting
-independent component analysis/ica
 ordinal
 appearance
 indirect
@@ -2967,7 +2930,6 @@ selection method
 scalability
 false negative
 neural network architecture
-isometric mapping/isomap
 flow
 based self
 neural net
@@ -3032,7 +2994,6 @@ multilingual
 ct
 designing
 individual learner
-support vector machine
 novel approach
 camera
 super
@@ -3054,9 +3015,7 @@ physiological
 prostatectomy
 boiler
 aggregation operator
-genetic algorithm
 neurologic
-back propagation
 spray
 similarity based
 tracing
@@ -3112,7 +3071,6 @@ facial feature
 guest editor
 weight sharing
 concentration
-wasserstein gan/wgan
 electrical brain
 initiative
 column
@@ -3128,7 +3086,6 @@ estimated
 evolutionary programming
 force feedback
 mini
-heterogeneous information network/hin
 spatial temporal
 dataset augmentation
 detection tracking
@@ -3164,7 +3121,6 @@ central nervous system
 nonlinear time
 macron-r
 importance
-particle swarm optimization
 unequal cost
 soft
 markov random field
@@ -3207,13 +3163,10 @@ stock
 constructing
 successful
 integrity
-multi-response linear regression/mlr
 dynamic neural network
-bag of words/bow
 watermark
 erp
 control design
-generative adversarial networks/gan
 periodic
 school
 multilayer perceptrons
@@ -3306,7 +3259,6 @@ nash reversion
 phoneme
 backstepping
 distribution system
-classification and regression tree/cart
 graph theory
 deriving
 ear
@@ -3396,7 +3348,6 @@ single phase
 ordinal attribute
 unshared convolution
 novel method
-deep convolutional generative adversarial network/dcgan
 global optimization
 higher order
 essential
@@ -3489,7 +3440,6 @@ prostate cancer
 stochastic gradient descent
 base learning algorithm
 user
-minimal description length/mdl
 artificial muscle
 data wrangling
 parallel tempering
@@ -3540,7 +3490,6 @@ disability
 sensor array
 low bit
 dynamic control
-feedforward neural networks/fnn
 green
 database using
 supporting
@@ -3669,12 +3618,10 @@ lower
 wind turbine
 decision support system
 crowd
-backpropagation/bp
 update
 wood
 orthogonal
 palmprint
-jensen-shannon divergence/jsd
 retinal
 inductive bias
 problem
@@ -3685,7 +3632,6 @@ scalar
 using low
 deformation
 method fuzzy
-improved iterative scaling/iis
 workspace
 ontology based
 field programmable gated array
@@ -3713,7 +3659,6 @@ k-fold cross validation
 hard
 audio
 processor
-d-separation/directed separation
 extraction
 neural network approach
 focused
@@ -3770,7 +3715,6 @@ assisted radical
 linear model
 fault
 cloud computing
-independent and identically distributed/i.i.d.
 earthquake
 obtaining
 based intelligent
@@ -3792,7 +3736,6 @@ flexible manufacturing
 outcome robotic
 gps
 semantic hashing
-conditional probability table/cpt
 terrain
 glucose
 color
@@ -3836,7 +3779,6 @@ packet
 mining technique
 oblique decision tree
 reuse
-neighbourhood component analysis/nca
 multiagent
 lyapunov function
 assisted partial
@@ -3861,7 +3803,6 @@ socially
 direction
 neuronal
 visual cortex
-error correcting output codes/ecoc
 holonomic
 ionic
 model reference adaptive
@@ -3894,7 +3835,6 @@ pca
 neural network control
 auto-regressive network
 cluster based
-one-dependent estimator/ode
 time dependent
 by
 jumping
@@ -3905,7 +3845,6 @@ matrix inversion
 prognosis
 computation
 system using neural
-log odds/logit
 impulse
 dc converter
 voice
@@ -4076,7 +4015,6 @@ fuzzy system
 analysis design
 digit
 synthetic aperture
-area under roc curve/auc
 state of the
 determine
 structure prediction
@@ -4146,7 +4084,6 @@ stream
 quantitative structure
 degree freedom
 model selection
-multilayer perceptron/mlp
 performance measure
 irregular
 session
@@ -4241,7 +4178,6 @@ calculus
 rate variability
 mining based
 diagonal matrix
-gated recurrent net/grn
 lightweight
 creative
 correlation coefficient
@@ -4259,7 +4195,6 @@ complex
 optimization approach
 nonstationary
 vanishing gradient problem
-linear discriminant analysis
 marketing
 inhibitory
 idea
@@ -4306,7 +4241,6 @@ coder
 rfid
 affinity
 using mobile
-structural risk minimization/srm
 efficient
 engineering design
 based fuzzy logic
@@ -4373,9 +4307,7 @@ client
 gaussian
 sediment
 one shot learning
-batch normalization/bn
 robot application
-machine translation
 texture classification
 design fuzzy
 back
@@ -4387,7 +4319,6 @@ algorithm dynamic
 context based
 model checking
 guided
-false positive rate/fpr
 hospital
 detector
 genetic
@@ -4434,7 +4365,6 @@ demonstration
 cascaded
 quantum computing
 loss
-radial basis function
 gender
 assisted radical cystectomy
 underlying
@@ -4583,7 +4513,6 @@ image registration
 parameterized
 top
 multi agent
-proximal gradient descent/pgd
 semi supervised
 query processing
 laplacian correction
@@ -4652,7 +4581,6 @@ decision tree
 relative
 random forest algorithm
 low level
-t-distribution stochastic neighbour embedding/t-sne
 determining
 research
 abstraction
@@ -4729,7 +4657,6 @@ based particle
 constrained
 spiking neuron
 texture analysis
-restricted isometry property/rip
 plasticity
 unitary matrix
 student
@@ -4787,7 +4714,6 @@ using computer vision
 constructive
 microprocessor
 learning by analogy
-true positive rate/tpr
 supervised classification
 integer
 using artificial intelligence
@@ -4799,7 +4725,6 @@ balancing
 hybrid method
 controllability
 power supply
-bayes model averaging/bma
 based speech
 design control
 network predict
@@ -4852,7 +4777,6 @@ using information
 average-pooling
 decision system
 field
-extreme learning machine/elm
 mediated
 neural network training
 relaxation
@@ -4870,7 +4794,6 @@ extracting
 pooling
 xml
 application-speciﬁc integrated circuit
-break-event point/bep
 reparametrization
 failure
 procedure
@@ -4964,7 +4887,6 @@ security
 perturbed
 system real
 object using
-multilayer perceptron
 college
 chemometrics
 maximum likelihood
@@ -5064,8 +4986,7 @@ neural network time
 autonomic
 analog circuit
 atomic
-support vector machine/svm
-back propagation neural
+backpropagation neural
 mutation
 rural
 based modeling
@@ -5099,8 +5020,6 @@ literature
 generalised
 residual
 parameterization
-self-organizing map/som
-hidden markov model
 suspension
 algorithm approach
 computational linguistics
@@ -5201,7 +5120,6 @@ shape analysis
 icml
 based robust
 linear threshold units
-principal component analysis
 quadratic
 interpolation
 parallel manipulator
@@ -5404,7 +5322,6 @@ stochastic system
 computer assisted
 ensemble learning
 equation
-restricted boltzmann machine/rbm
 modulation
 algorithm image
 sliding
@@ -5489,7 +5406,6 @@ city
 local minimum
 reactive power
 modeling using
-genetic algorithm/ga
 container
 recent advance
 feedback controller
@@ -5512,7 +5428,6 @@ solution
 small
 image fusion
 interval valued
-machine translation/mt
 vegetation
 skew
 based neural network
@@ -5541,9 +5456,7 @@ system via
 multivariate calibration
 bioinformatics
 based active
-conference on neural information processing systems/nips
 fast accurate
-learning vector quantization/lvq
 dual arm
 debugging strategy
 book
@@ -5625,7 +5538,6 @@ speaker identification
 piecewise
 adaptive filtering
 mutual information
-rectified linear unit/relu
 realtime
 orthonormal
 transmission line
@@ -5692,7 +5604,6 @@ grid search
 adverse
 overfitting
 neonatal
-layer-wise adaptive rate scaling/lars
 eye movement
 corpus
 java
@@ -5780,7 +5691,6 @@ rule based system
 general problem solving
 data stream
 multivariable
-kernelized linear discriminant analysis/klda
 command
 feed forward neural
 vol pg
@@ -5795,7 +5705,6 @@ wire
 twice-learning
 synaptic
 formal concept analysis
-conditional random field
 synergy
 bootstrapping
 individual
@@ -5812,7 +5721,6 @@ people
 predictor
 acute
 computing technique
-cascade/coalesced
 urology
 leaky relu
 deterministic
@@ -5901,7 +5809,6 @@ control system using
 reverse engineering
 world wide
 motion based
-particle swarm optimization/pso
 diﬀerential entropy
 bee colony algorithm
 giant magnetoresistance
@@ -6067,7 +5974,6 @@ state space
 stimulation
 adaptive neuro
 convex
-artificial general intelligence/agi
 glass
 out-of-bag estimate
 compatible
@@ -6174,7 +6080,6 @@ generalized score matching
 hardware
 scenario
 deep circuit
-deep neural network/dnn
 adaptive control system
 index
 damage
@@ -6201,7 +6106,6 @@ passivity
 co-adapting
 neural network prediction
 axon
-backpropagation
 dictionary
 powder
 reaction
