@@ -12,7 +12,6 @@ with open("dict.txt","r") as dict_file:
             print("\""+w+"\"", end = "")
             tmp = []
 
-            
             for t_w in trans_words:
                 index = t_w.index("/")
                 if model.wmdistance(t_w[0:index],w) < threshold:

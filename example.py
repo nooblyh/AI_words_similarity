@@ -2,22 +2,30 @@ from gensim.models import Word2Vec
 from cosine_distance import cosine_similarity
 
 model = Word2Vec.load('./modelfile/MyModel')
-
-words = ["machine learning","transfer learning","back propagation"]
+trans_file = open("transfer_word.txt","r")
+trans_words = trans_file.read().splitlines()
+words = ["machine learning","transfer learning","back propagation","cnn","rnn","lstm","attention"]
 threshold = 5
 with open("dict.txt","r") as dict_file:
     dict_words = dict_file.read().splitlines()
     for w in words:
         print("\""+w+"\"", end = "")
         tmp = []
+        for t_w in trans_words:
+                index = t_w.index("/")
+                if model.wmdistance(t_w[0:index],w) < threshold:
+                    break
+                elif model.wmdistance(t_w[index+1:],w) < threshold:
+                    w = t_w[0:index]
+                    tmp.append(t_w[0:index])
+                else:
+                    continue
+                    
+        
         for d_w in dict_words:
-            if("/" in d_w):
-                index = d_w.index("/")
-                if model.wmdistance(d_w[0:index],w) < threshold or model.wmdistance(d_w[index+1:],w) < threshold:
-                    tmp.append(d_w[0:index])
-            else:
-                if model.wmdistance(d_w,w) < threshold:
-                    tmp.append(d_w)         
+            if model.wmdistance(d_w,w) < threshold:
+                tmp.append(d_w)
+
         for d_w in tmp:
             print(",\""+d_w+"\"", end = "")
         print()
