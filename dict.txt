@@ -38,7 +38,7 @@ threshold logic unit
 introduction special
 peer to
 fuel
-univariate decision tree	
+univariate decision tree
 network analysis
 guidance
 wavelet transform
@@ -237,7 +237,7 @@ classification algorithm
 ranking
 character
 method solving
-fluctuation	
+fluctuation
 discrete time
 recognition system using
 gene expression data
@@ -321,7 +321,7 @@ upper confidence bounds
 self learning
 markov random
 using hidden
-contingency table	
+contingency table
 kinase
 asymptotic
 skin
@@ -338,7 +338,7 @@ bit
 curve
 shading
 reluctance
-margin theory	
+margin theory
 robotic partial nephrectomy
 indicator
 personality
@@ -368,7 +368,7 @@ model predictive
 echo
 uncertain system
 shape memory
-data mining	
+data mining
 service composition
 feed
 swimming
@@ -386,7 +386,7 @@ time control
 sampled data
 string
 gain
-gaussian mixture model	
+gaussian mixture model
 large
 non stationary
 roughness
@@ -468,7 +468,7 @@ augmentation
 online
 subset
 unknown environment
-fine-tuning	
+fine-tuning
 output layer
 tractable
 stock market
@@ -476,9 +476,9 @@ translating
 remotely sensed
 expression
 generalized lagrange function
-deep q-network	
+deep q-network
 realization
-confusion matrix	
+confusion matrix
 spatiotemporal
 factory
 cancer
@@ -492,7 +492,7 @@ machinery
 propositional
 anthropomorphic
 based similarity
-linear discriminant analysis/lda	
+linear discriminant analysis/lda
 fuzzy inference system
 tag
 library
@@ -502,7 +502,7 @@ modular robot
 trajectory
 graph matching
 range
-upsampling	
+upsampling
 all
 identify
 class nonlinear
@@ -577,10 +577,10 @@ measuring
 sphere
 characterization
 inhibitor
-deep belief network	
+deep belief network
 control industrial
 mechatronics
-attribute conditional independence assumption 
+attribute conditional independence assumption
 migration
 based evolutionary
 profile
@@ -715,7 +715,7 @@ classifier using
 block gibbs sampling
 observer based
 snake
-cost function	
+cost function
 uncertain nonlinear system
 system mobile
 tourism
@@ -824,7 +824,7 @@ quantized neural network/qnn
 cancellation
 agent
 based nonlinear
-distance measure	
+distance measure
 underwater vehicle
 ir
 role
@@ -855,7 +855,7 @@ convolutional neural network
 robot controller
 forecasting model
 pass
-game theory	
+game theory
 immune
 model approach
 fuzzy inference
@@ -887,7 +887,7 @@ improving
 unique
 criterion
 homogeneous
-hard  margin 
+hard margin
 belief network
 minimally invasive surgery
 discrete time system
@@ -922,7 +922,7 @@ human detection
 vulnerability
 masking
 coherent
-leave-one-out/loo	
+leave-one-out/loo
 child
 increased
 avatar
@@ -936,7 +936,7 @@ using particle
 vaccine
 steady state
 fiber
-connectionism	
+connectionism
 thoracic
 based genetic algorithm
 genetic programming
@@ -1002,7 +1002,7 @@ move
 pathological
 fed
 writing
-discriminative model	
+discriminative model
 trial-by-error
 from
 communication system
@@ -1011,7 +1011,7 @@ backward
 quantitative
 product design
 social network
-comprehensibility	
+comprehensibility
 multi criteria
 bus
 wdm
@@ -1164,7 +1164,7 @@ robustness
 the art
 anxiety
 sparsity
-intrinsic value	
+intrinsic value
 concurrent
 deformable
 chinese character
@@ -1197,7 +1197,7 @@ planning system
 exponential stability
 figure
 using optical
-cutting plane algorithm 
+cutting plane algorithm
 manager
 searching
 polymorphism
@@ -1218,7 +1218,7 @@ diagnosis based
 scaling
 urinary
 annotation
-ground-truth	
+ground-truth
 semi-naive bayes classifiers
 core
 computed
@@ -1230,7 +1230,7 @@ portfolio
 calculus of variations
 descent
 archive
-lazy learning 
+lazy learning
 tool
 many
 protein protein
@@ -1254,7 +1254,7 @@ landscape
 port
 detection algorithm
 research application
-decision boundary	
+decision boundary
 coverage
 processing using
 intelligence method
@@ -1387,7 +1387,7 @@ iterative learning
 robust speech recognition
 gear
 oscillation
-information entropy	
+information entropy
 lake
 attribute
 gibbs sampling
@@ -1404,7 +1404,7 @@ spanish
 system theory
 diagnostic system
 enzyme
-global minimum	
+global minimum
 demand
 classification method
 parameter optimization
@@ -1443,7 +1443,7 @@ supervisory
 shopping
 using color
 hyper
-insensitive loss	
+insensitive loss
 using self organizing
 percutaneous
 motor control
@@ -1476,7 +1476,7 @@ web page
 denoising autoencoder
 markov chain monte carlo/mcmc
 sliding mode controller
-latent dirichlet allocation/lda 
+latent dirichlet allocation/lda
 document
 search method
 combining
@@ -1498,7 +1498,7 @@ color space
 system real time
 preface
 imitation
-marginalization 	
+marginalization
 interaction
 labeling
 empirical entropy
@@ -1602,7 +1602,7 @@ absolute
 considering
 application neural network
 emotion
-micro-r	
+micro-r
 technique application
 amino
 minimum
@@ -1637,7 +1637,7 @@ electron
 saliency map
 self organizing
 representation
-harmonic mean	
+harmonic mean
 rotation invariant
 business process
 lighting
@@ -1663,7 +1663,7 @@ multi target
 bound
 inversion
 network ensemble
-mean squared error	
+mean squared error
 analog
 competence
 blind source separation
@@ -1685,7 +1685,7 @@ weakly
 hard voting
 shallow
 lagrange duality
-evolutionary computation 
+evolutionary computation
 nonholonomic
 diﬀerential equation
 general
@@ -1708,7 +1708,7 @@ employing
 radiation
 clustered
 auv
-ensemble pruning	
+ensemble pruning
 main
 autonomic system
 lobe
@@ -1806,7 +1806,7 @@ knowledge based system
 legal
 cross
 telescope
-embedding	
+embedding
 influencing
 biometric
 based prediction
@@ -1816,7 +1816,7 @@ planning algorithm
 protocol
 circular
 multiprocessor
-end-to-end	
+end-to-end
 biped walking
 transductive learning
 bilinear
@@ -1913,7 +1913,7 @@ sensor fusion
 microwave
 chance
 subject
-macron-p	
+macron-p
 rehabilitation
 detection using
 motion compensation
@@ -1940,7 +1940,7 @@ crystal
 wheeled
 dempster
 bidirectional
-cost-sensitive	
+cost-sensitive
 feedforward neural
 hmm based
 network technique
@@ -2150,7 +2150,7 @@ perceived
 nose
 multiple dimensional scaling
 workstation
-domain adaption	
+domain adaption
 scale invariant
 utility
 maximizing
@@ -2159,7 +2159,7 @@ wind speed
 geodesic
 consideration
 access
-inter-cluster similarity 
+inter-cluster similarity
 hinge loss function
 receiver operating characteristic/roc
 configuration
@@ -2188,13 +2188,13 @@ relationship
 based hierarchical
 applied
 dynamic environment
-cost curve	
+cost curve
 post
 neural network adaptive
 seed
 method application
 twitter
-bayes decision rule 
+bayes decision rule
 data generating distribution
 template
 leibniz’s rule
@@ -2284,7 +2284,7 @@ winner
 bayes
 embedding
 epilepsy
-inductive logic programming/ilp	
+inductive logic programming/ilp
 marker
 experimental result
 propagation
@@ -2336,7 +2336,7 @@ based design
 acquisition funtion
 video surveillance
 diode
-dynamic fusion	
+dynamic fusion
 gray
 carotid
 material
@@ -2458,7 +2458,7 @@ stable
 red
 conceptual design
 fpga implementation
-cut point	
+cut point
 double
 model based
 analysis fuzzy
@@ -2586,7 +2586,7 @@ answering system
 scheduling
 facial image
 isolation
-diversity measure	
+diversity measure
 inclusion
 evolution algorithm
 maximum likelihood estimation/mle
@@ -2712,7 +2712,7 @@ collision free
 based architecture
 tuning
 kinematic analysis
-flipping output	
+flipping output
 fibre
 line
 graph
@@ -2965,7 +2965,7 @@ cylinder
 analyzing
 selection method
 scalability
-false negative	
+false negative
 neural network architecture
 isometric mapping/isomap
 flow
@@ -3031,7 +3031,7 @@ sentence
 multilingual
 ct
 designing
-individual learner	
+individual learner
 support vector machine
 novel approach
 camera
@@ -3039,7 +3039,7 @@ super
 benign
 neural fuzzy
 error correcting
-momentum	
+momentum
 plan
 postoperative
 review
@@ -3067,14 +3067,14 @@ fuzzy clustering
 public
 coli
 impedance control
-continuous attribute	
-k-means clustering	
+continuous attribute
+k-means clustering
 energy efficient
 graph cut
 stationary point
 occluded
 dimensional
-exponential loss function 
+exponential loss function
 decomposition
 misclassification cost
 multiagent system
@@ -3142,7 +3142,7 @@ personalization
 categorical
 power
 stationary
-multi-class classification	
+multi-class classification
 globally
 network design
 knowledge engineering
@@ -3162,7 +3162,7 @@ digital image
 morphological
 central nervous system
 nonlinear time
-macron-r	
+macron-r
 importance
 particle swarm optimization
 unequal cost
@@ -3198,7 +3198,7 @@ mobile robotics
 correction
 stand
 time optimal
-crowdsourcing	
+crowdsourcing
 indicator function
 spiking neural nets
 inertia
@@ -3207,7 +3207,7 @@ stock
 constructing
 successful
 integrity
-multi-response linear regression/mlr	
+multi-response linear regression/mlr
 dynamic neural network
 bag of words/bow
 watermark
@@ -3221,7 +3221,7 @@ self organization
 creativity
 probabilistic model
 regulation
-isotonic regression	
+isotonic regression
 dna
 topic
 coating
@@ -3284,7 +3284,7 @@ method
 prevention
 massive
 semi supervised learning
-moral graph	
+moral graph
 calcium
 five
 inspection
@@ -3307,7 +3307,7 @@ phoneme
 backstepping
 distribution system
 classification and regression tree/cart
-graph theory	
+graph theory
 deriving
 ear
 planning based
@@ -3363,10 +3363,10 @@ silhouette
 sliding mode control
 software engineering
 generalization error bound
-generalized linear model	
+generalized linear model
 segmentation method
 object recognition
-unsupervised layer-wise training	
+unsupervised layer-wise training
 paradigm
 redundant manipulator
 pulmonary
@@ -3413,7 +3413,7 @@ infant
 sampling
 time delay
 tutorial
-multi-document summarization	
+multi-document summarization
 body
 filtering
 parameter
@@ -3453,7 +3453,7 @@ measure theory
 privacy preserving
 odds
 single
-underfitting	
+underfitting
 measurement system
 beta
 transmission system
@@ -3463,7 +3463,7 @@ history
 trade off
 variable structure
 compliant
-marginal independence 	
+marginal independence
 product development
 multi user
 quick
@@ -3489,7 +3489,7 @@ prostate cancer
 stochastic gradient descent
 base learning algorithm
 user
-minimal  description length/mdl
+minimal description length/mdl
 artificial muscle
 data wrangling
 parallel tempering
@@ -3605,7 +3605,7 @@ waste
 coordinated
 surgeon
 performance evaluation
-iterative dichotomiser	
+iterative dichotomiser
 computer system
 build
 gradient based
@@ -3676,7 +3676,7 @@ orthogonal
 palmprint
 jensen-shannon divergence/jsd
 retinal
-inductive bias	
+inductive bias
 problem
 tracker
 adhesion
@@ -3709,7 +3709,7 @@ based bp
 nearest neighbor
 experimental evaluation
 lead
-k-fold cross validation	
+k-fold cross validation
 hard
 audio
 processor
@@ -3809,13 +3809,13 @@ logic approach
 amplifier
 mass spectrometry
 weak learner
-downsampling	
+downsampling
 equipment
-disagreement measure	
+disagreement measure
 technical
 trace
 circle
-empirical risk	
+empirical risk
 constraint programming
 takagi
 linearization
@@ -3861,7 +3861,7 @@ socially
 direction
 neuronal
 visual cortex
-error correcting output codes/ecoc	
+error correcting output codes/ecoc
 holonomic
 ionic
 model reference adaptive
@@ -4021,7 +4021,7 @@ texture feature
 vowel
 cycle
 and
-feature engineering	
+feature engineering
 estimate
 fitness
 atlas
@@ -4038,7 +4038,7 @@ multipath
 radial basis
 markov decision process
 patient undergoing
-structural  risk
+structural risk
 neural network fuzzy
 risk analysis
 measured
@@ -4096,7 +4096,7 @@ model free
 surface
 tunable
 myocardial
-energy-based model	
+energy-based model
 interface
 series
 virtual reality
@@ -4219,9 +4219,9 @@ clustering
 aircraft
 provide
 mathematical morphology
-cost matrix	
+cost matrix
 using computer
-decision tree	
+decision tree
 supported
 wireless communication
 integrated approach
@@ -4244,7 +4244,7 @@ diagonal matrix
 gated recurrent net/grn
 lightweight
 creative
-correlation coefficient	
+correlation coefficient
 support vector expansion
 biomarkers
 pruning
@@ -4269,7 +4269,7 @@ routing
 entropy based
 language processing
 high resolution
-deduction	
+deduction
 partition
 cyclic
 closed loop
@@ -4315,7 +4315,7 @@ fuzzy means clustering
 complete graph
 extraction based
 shape recognition
-component learner	
+component learner
 optimizing
 based robotic
 software agent
@@ -4339,7 +4339,7 @@ generic
 transform based
 perceptrons
 enabling
-expected loss 
+expected loss
 knapsack
 ubiquitous computing
 multi agent based
@@ -4352,7 +4352,7 @@ operated
 localization mobile robot
 building
 nervous
-generator	
+generator
 attribute space
 classification rule
 innovative
@@ -4387,7 +4387,7 @@ algorithm dynamic
 context based
 model checking
 guided
-false positive rate/fpr	
+false positive rate/fpr
 hospital
 detector
 genetic
@@ -4459,7 +4459,7 @@ semiconductor
 primate
 wireless sensor network
 network application
-micro-p	
+micro-p
 network classifier
 pid
 finger
@@ -4546,7 +4546,7 @@ dissimilarity
 military
 autonomous underwater vehicle
 weight
-maximum margin	
+maximum margin
 meet
 fundamental
 country
@@ -4600,7 +4600,7 @@ exploring
 recognition method
 assisted
 system robot
-featured learning	
+featured learning
 offset
 fpga
 message
@@ -4676,7 +4676,7 @@ nearest-neighbor search
 negative class
 networked control
 susceptibility
-cross validation	
+cross validation
 performance improvement
 recommender
 selected
@@ -4771,7 +4771,7 @@ background
 precise
 non-linear oscillation
 non-negative matrix factorization
-dummy node	
+dummy node
 approximation
 split
 anatomy
@@ -4829,7 +4829,7 @@ shift invariance
 vision based
 usage
 odometry
-generalized rayleigh quotient	
+generalized rayleigh quotient
 depression
 consistent
 benchmarking
@@ -4845,7 +4845,7 @@ descriptor
 least
 static
 determinant
-consistency	
+consistency
 temperature
 trust
 using information
@@ -4916,7 +4916,7 @@ norm
 real time
 explanation
 open
-learning rate	
+learning rate
 conjugate
 dynamic bayesian
 inhibition
@@ -4957,7 +4957,7 @@ comment
 epsilon
 learning object
 model predictive control (mpc)
-density estimation 	
+density estimation
 model driven
 replication
 security
@@ -5011,13 +5011,13 @@ control autonomous
 mechanic
 using neural network
 off-policy
-committee-based learning	
+committee-based learning
 graphical model
 paired t-test
 optimum
 special issue
 existing
-competitive learning	
+competitive learning
 training algorithm
 stack
 studying
@@ -5052,7 +5052,7 @@ tumor
 behavior based
 algorithm application
 broadband
-dual problem 
+dual problem
 binary image
 implementing
 neuroscience
@@ -5090,7 +5090,7 @@ nonlinear model
 slam
 vivo
 independent subspace analysis
-undersampling	
+undersampling
 using genetic
 id
 sparse activation
@@ -5127,7 +5127,7 @@ film
 on-policy
 burning-in
 atmospheric
-convex quadratic programming 	
+convex quadratic programming
 process monitoring
 easy
 secondary
@@ -5252,7 +5252,7 @@ matching using
 inconsistency
 professional
 concept drift
-generative model	
+generative model
 using support vector
 using bayesian
 binocular
@@ -5338,7 +5338,7 @@ mouse
 autonomous mobile
 aging
 angular
-induction	
+induction
 objective evolutionary algorithm
 neuron
 attribute value
@@ -5392,7 +5392,7 @@ agent oriented
 modification
 pipelined
 algorithm optimal
-minimax game	
+minimax game
 sensor network
 industry
 multi level
@@ -5482,11 +5482,11 @@ blocking
 linear regression
 control system based
 symmetry
-incremental learning	
+incremental learning
 resource allocation
 aggregation
 city
-local minimum	
+local minimum
 reactive power
 modeling using
 genetic algorithm/ga
@@ -5543,7 +5543,7 @@ bioinformatics
 based active
 conference on neural information processing systems/nips
 fast accurate
-learning vector quantization/lvq	
+learning vector quantization/lvq
 dual arm
 debugging strategy
 book
@@ -5667,7 +5667,7 @@ model predicting
 intelligent tutoring system
 ecg
 disturbance observer
-max-pooling	
+max-pooling
 aggregate
 system engineering
 updating
@@ -5688,9 +5688,9 @@ seam
 probabilistic neural
 free form
 intraoperative
-grid search	
+grid search
 adverse
-overfitting	
+overfitting
 neonatal
 layer-wise adaptive rate scaling/lars
 eye movement
@@ -5777,10 +5777,10 @@ situ
 outlier
 perceptual
 rule based system
-general problem solving	
+general problem solving
 data stream
 multivariable
-kernelized linear discriminant analysis/klda 
+kernelized linear discriminant analysis/klda
 command
 feed forward neural
 vol pg
@@ -5892,7 +5892,7 @@ non-convex optimization
 ant colony optimization
 fault detection
 built
-instance segmentation	
+instance segmentation
 deficiency
 gesture recognition
 co
@@ -5960,7 +5960,7 @@ consciousness
 lexicon
 multiple model
 automatic image
-emotional analysis	
+emotional analysis
 multiple robot
 loopy belief propagation
 head pose
@@ -6006,7 +6006,7 @@ optimal design
 computing system
 slow
 floor
-data set	
+data set
 attitude control
 mining
 discovering
@@ -6039,11 +6039,11 @@ shifting
 residue
 hoc network
 power quality
-unit test 
+unit test
 topological
 fourier
 function approximation
-frequentist	
+frequentist
 tele
 asynchoronous stochastic gradient descent
 coherence
@@ -6069,7 +6069,7 @@ adaptive neuro
 convex
 artificial general intelligence/agi
 glass
-out-of-bag estimate	
+out-of-bag estimate
 compatible
 focal
 correcting
@@ -6081,7 +6081,7 @@ evolutionary algorithm
 design optimization
 semantic segmentation
 first
-conversational agent	
+conversational agent
 lambda
 one class
 dimensionality reduction algorithm
@@ -6148,13 +6148,13 @@ infection
 revisited
 epochs
 vitro
-conditional risk 
+conditional risk
 parallel
 immune system
 hoc
 filter bank
 risk factor
-deep q-learning	
+deep q-learning
 display
 segmenting
 wheel
@@ -6170,7 +6170,7 @@ radical
 smart
 compound
 robo
-generalized score matching	
+generalized score matching
 hardware
 scenario
 deep circuit
@@ -6219,9 +6219,9 @@ instruction
 based machine
 attenuation
 ar
-co-occurrence	
+co-occurrence
 real
-understandability	
+understandability
 mathematics
 quantum computer
 hand gesture
@@ -6248,7 +6248,7 @@ genetic fuzzy
 ieee
 accelerating
 accumulation
-connection weight	
+connection weight
 reply
 cable driven
 improve

@@ -5,7 +5,7 @@
 real-time computing
 lpr
 nlm
-object  z
+object z
 mira
 scalable video coding
 pancreatic carcinoma
@@ -1283,7 +1283,7 @@ credit hcard
 sensors observation service
 parenchyma
 preference architecture
-self  assessment
+self assessment
 morphometric analysi
 ground
 the current
@@ -1401,7 +1401,7 @@ systems wide information management
 dvb h
 hazard analysis and critical point
 property test
-quasi 
+quasi
 cover tree
 universal conductance fluctuations
 blinking
@@ -1721,7 +1721,7 @@ superoxides
 biomass
 bacillus subtilis
 obituary
-jacek  zurada
+jacek zurada
 estimation distribution algorithm
 digital distributional
 mld
@@ -1749,7 +1749,7 @@ edas
 discriminator
 basal rate
 semantics interpretation
-self 
+self
 sff
 query expansion
 admm
@@ -2200,7 +2200,7 @@ aris
 fisherie
 cbvir
 contrast resolution
-growing self  organizing map
+growing self organizing map
 cerebellar models articulation controller
 adts
 early diagnosi
@@ -2391,7 +2391,7 @@ phenylketonurias
 catia
 shear
 curcumin
-meta 
+meta
 uninterruptible supply
 intelligent control
 motor neurons disease
@@ -3158,7 +3158,7 @@ cyberpsychology
 glonas
 box models
 thompson sampl
-t 
+t
 led display
 cohort studie
 dmi
@@ -3255,7 +3255,7 @@ interactive visualization
 nonlinear system
 fuzzy cluster
 shortest xpath problem
-hyper 
+hyper
 window functional
 cache validation
 osi
@@ -3283,7 +3283,7 @@ term
 image differenc
 physical system
 computational aeroacoustic
-multi  document summarization
+multi document summarization
 julia
 content addressable memory
 soil classification
@@ -4012,7 +4012,7 @@ hormones replacement therapy
 multimedia computer
 fgdc
 obs
-self  reference
+self reference
 common object request architecture
 web gi
 textiles
@@ -4270,7 +4270,7 @@ seeds
 jpl
 i
 neutron analysi
-hidden semi  markov model
+hidden semi markov model
 visual editors
 grc
 medical
@@ -4707,13 +4707,13 @@ e1
 clas
 signal separation
 set
-owl 
+owl
 appendicitis
 dark web
 care plant
 electromyographs
 gastrointestinal system
-co 
+co
 dipole antenna
 growth receptor
 treatment
@@ -5094,7 +5094,7 @@ probabilistic semantic
 cancer diagnosi
 per
 irritants
-de 
+de
 lkf
 reprogram
 central pressure
@@ -5203,7 +5203,7 @@ nitric acids
 firefly algorithm
 consciousness
 evoked potential
-multi  core processor
+multi core processor
 k-svd
 non-word repetition
 coronary disease
@@ -5220,7 +5220,7 @@ makespan
 loop join
 syntax tree
 dir
-self  stabilization
+self stabilization
 generic data mode
 helmholtz machine
 nk
@@ -5771,7 +5771,7 @@ abductive logic programme
 incremental tree
 brittleness
 toc
-active object 
+active object
 soft system methodology
 pola
 remote sensing application
@@ -5867,7 +5867,7 @@ election rule
 pension
 xml
 dorsal raphe nucleu
-self  replication
+self replication
 oligodeoxyribonucleotides
 proteins fold
 logical framework
@@ -6230,7 +6230,7 @@ presence information
 war ii
 health information system
 mannose protein associated serine protease
-object  code
+object code
 hilberts tenth problem
 rpc
 java annotation
@@ -6409,7 +6409,7 @@ abt
 chronic kidney diseases
 night vision
 telephone exchange
-quantified self 
+quantified self
 hydroxysteroids dehydrogenase
 java notation
 print
@@ -6495,7 +6495,7 @@ visual attention
 remote controls
 video records
 staging system
-object  relational database
+object relational database
 mhd
 typically
 stbc
@@ -6530,7 +6530,7 @@ protein isoform
 streaming xml
 esp
 radial basis functional network
-multi  label classification
+multi label classification
 actor models
 randomization
 program developmental
@@ -6825,7 +6825,7 @@ yellow fever
 india
 real-time search
 human resources management system
-jacek m  zurada
+jacek m zurada
 blp
 high speed serial link
 clinicaltrials.gov
@@ -7592,7 +7592,7 @@ chairs
 atomic commit
 need assessment
 preventable
-  
+
 metabolic syndrome x
 cardiovascular system
 wakefulnes
@@ -7657,7 +7657,7 @@ carpal tunnel syndrome
 joint conferences on digital librarie
 deterministic algorithmic
 gecco
-m  zurada
+m zurada
 limbic systemc
 run-length encoding
 globulin
@@ -7709,7 +7709,7 @@ computational theory of minds
 magnetic resonance spectroscopic image
 character encode
 multilinear subspace learn
-self  modifying code
+self modifying code
 heterogeneou
 itraconazole
 extracorporeal oxygenation
@@ -8236,7 +8236,7 @@ cnn-um
 local convergence
 gbdt
 attempt
-object  request broker
+object request broker
 sams
 discoverability
 automated essay score
@@ -8272,7 +8272,7 @@ motion simulator
 fiber optics cable
 toll like 4
 software aging
-multi  user mimo
+multi user mimo
 fobt
 t distributed operating system
 motion history imagej
@@ -8290,7 +8290,7 @@ slnb
 hlda
 ctom
 memetic
-semi  structured data
+semi structured data
 embedment
 security through obscurity
 eclipse remodeling framework
@@ -8337,7 +8337,7 @@ spin
 organization studies
 imagej moment
 surgical service
-self  tun
+self tun
 left ventricular functions
 semantics web service
 software line
@@ -8812,7 +8812,7 @@ nitrogen oxides
 mosses
 lemmatisation
 seed
-physical object 
+physical object
 garden
 chemical
 earth science
@@ -9485,7 +9485,7 @@ accuracy
 volume method
 generalized disorder
 osmosis
-tnf 
+tnf
 computed tomography
 igf-1
 gradients method
@@ -9585,7 +9585,7 @@ rvf
 table informational
 information model
 proof numbers search
-multi  objective optimization
+multi objective optimization
 concurrent constraint logic programme
 aggregate functions
 sleep
@@ -10529,7 +10529,7 @@ beat detection
 alt
 itam
 mars
-multi  factor authentication
+multi factor authentication
 electroactive polymer
 peroxides
 iteration
@@ -11298,7 +11298,7 @@ informational explosion
 point set registration
 lidar
 pounds
-visual object 
+visual object
 climbing stair
 bcr
 switch
@@ -11358,7 +11358,7 @@ finite state transducers
 elaboration likelihood mode
 international conference on autonomous agents and multiagent systemc
 apriori algorithmic
-self  similarity
+self similarity
 qspr
 vts
 inverted pendulum
@@ -11710,7 +11710,7 @@ hemodialysis
 down-regulation
 fuzzy sets and systems
 constraint graphs
-object  manager
+object manager
 deformation diffeomorphic metric mapp
 linear search
 wound infections
@@ -11831,7 +11831,7 @@ necrosis factor alpha
 gha
 ksom
 homa-ir
-non 
+non
 usability tests
 dialog
 routing stable
@@ -11894,7 +11894,7 @@ hydroxysteroid
 v mode
 tumors stage
 hyperplasia
-autonomous agents and multi  agent system
+autonomous agents and multi agent system
 lbps
 urinary bladder
 serial numbers
@@ -12402,7 +12402,7 @@ time of flight cameras
 sources track
 coded smell
 openstreetmap
-sub 
+sub
 kinect
 pneumococcal infections
 healthy care financ
@@ -12614,7 +12614,7 @@ retinoic acid receptors
 isoflavone
 induced pluripotent stem cell
 hevc
-pre 
+pre
 endocrine systemc
 path
 carbohydrate metabolism
@@ -12679,12 +12679,12 @@ wfst
 coc
 svpwm
 decision diagram
-meta  optimization
+meta optimization
 dlm
 palliative care
 tangent space alignment
 randomness
-object  detection
+object detection
 signal transduction pathways
 symposium on comput
 outcomes measure
@@ -12774,7 +12774,7 @@ e book
 thyrotoxicosis
 dicom
 nervous systems structure
-3 
+3
 nar
 patient transition
 proxy server
@@ -12846,7 +12846,7 @@ probabilistic data association filter
 point interest
 non-negative least squares
 paraffin tissue
-astronomical object 
+astronomical object
 high level synthesi
 rcs
 a viru
@@ -13160,7 +13160,7 @@ distributed interactive simulation
 ga-ann
 high throughput comput
 rat
-multi  drug resistance
+multi drug resistance
 physical unclonable functional
 request for proposal
 kinase activity
@@ -13242,7 +13242,7 @@ self walk
 world wind
 channel stat information
 .net framework
-object  constraint language
+object constraint language
 water flow
 mer
 eas
@@ -13307,7 +13307,7 @@ diabetes insipidu
 geography markup language
 opengl
 thirst
-dis 
+dis
 has
 saline
 collaborative filters
@@ -13611,7 +13611,7 @@ disasters plann
 embedded software
 computing architecture
 sequoia
-self  examination
+self examination
 mythology
 wssv
 neural network simulation
@@ -13659,7 +13659,7 @@ information acces
 semantic rule language
 mhealth information exchange
 robots locomotion
-smart object 
+smart object
 mild mental retardation
 atods
 networks calculu
@@ -13715,7 +13715,7 @@ values network
 digital millennium copyright act
 formation assurance
 k medoid
-built in self  test
+built in self test
 ecoc
 snp arra
 point cloud
@@ -14772,7 +14772,7 @@ network layer
 sign recognition
 tumor suppressor gene
 t cell lymphomas
-self  consciou
+self consciou
 keywords advertis
 bradford's law
 fluorides
@@ -15127,7 +15127,7 @@ bispectrum analyzer
 stochastic block model
 uncertainty principle
 virtex fpga
-daniel  bobrow
+daniel bobrow
 statistica signal process
 gpp
 declarative programming
@@ -15478,7 +15478,7 @@ open online course
 potential well
 box model
 statistic learning theory
-self  organized criticality
+self organized criticality
 satisfiability theorie
 vital statistic
 simulation software
@@ -15714,7 +15714,7 @@ paging
 wais
 ebv
 contraction mapp
-self  organizing map
+self organizing map
 health information
 inertial navigation system
 american society of oncology
@@ -16016,7 +16016,7 @@ totb
 constraint programmer
 repeatability
 materials
- 1
+1
 dems
 quorum sense
 free
@@ -16989,7 +16989,7 @@ mrfs
 rich internet application
 convolutional codec
 data driven
-daniel g  bobrow
+daniel g bobrow
 video post-processing
 radiation pneumonitis
 communication disorder
@@ -17077,7 +17077,7 @@ europa
 factory graph
 procedural reasoning system
 cholinesterase inhibitor
-daniels g  bobrow
+daniels g bobrow
 electric power quality
 genetic and evolutionary computation conferences
 vi
@@ -17262,7 +17262,7 @@ electronic packag
 computation sustainability
 nsf
 theories of cognition
-self  organization
+self organization
 cais
 avc
 cantor set
@@ -17535,7 +17535,7 @@ update
 automated planning and schedule
 microclimate
 general data protection regulation
-multi  agent programming contest
+multi agent programming contest
 binocular vision
 health services
 cw
@@ -17717,7 +17717,7 @@ iac
 speaker recognition
 left heart syndrome
 ari
-hyper  heuristic
+hyper heuristic
 principle of least action
 phenol
 rbf-ann
@@ -18131,7 +18131,7 @@ cem
 neural control
 protein informational resource
 blood cells
-meta  system
+meta system
 mdo
 ht
 humans papillomaviru
@@ -18718,7 +18718,7 @@ thrombophilia
 convex
 distributed constraint optimization
 framework
-self  reflection
+self reflection
 multi-
 packet switching
 tangible interface
@@ -18947,7 +18947,7 @@ asl
 csps
 cytoplasmic
 connected component label
-self  assembly
+self assembly
 communication security
 stochastic network
 inverse filter
@@ -19141,7 +19141,7 @@ bss
 tem
 cobalt
 hebbian
- 4
+4
 hall effect sensors
 statistical learn
 gsv
@@ -19213,7 +19213,7 @@ nosql
 ieee transactions on computation
 tuberculosi
 universal turing machines
-document object  model
+document object model
 simultaneous perturbation approximation
 sort-merge join
 systems requirement
@@ -19678,7 +19678,7 @@ monsoon
 architectural pattern
 large nearest neighbor
 lncrnas
-multi  task learn
+multi task learn
 languages technology
 time complexity
 hypothalamic-pituitary-adrenal axis
@@ -19742,7 +19742,7 @@ real data
 preamplifier
 il-10
 aod
-multi  user
+multi user
 and computation
 participatory sens
 dsi
@@ -19769,7 +19769,7 @@ accountable care organizational
 experimental
 adaptive optimization
 hierarchical cluster
-secure multi  party computation
+secure multi party computation
 product
 distributed recognition
 macrophage colony stimulating factor
@@ -20046,7 +20046,7 @@ social information processing
 guidebooks
 software product lines
 finite states transducer
-sq  in
+sq in
 il 8
 stress tests
 boltzmann method
@@ -20704,7 +20704,7 @@ learning
 systems methodology
 chain network
 need know
-d 
+d
 t-score
 ifih1 genes
 specific gravity
@@ -20801,7 +20801,7 @@ mia
 spastic
 erythrocytes
 rft
-distributed object 
+distributed object
 web-gis
 radio communication
 edm
@@ -20839,7 +20839,7 @@ alpine
 servo
 transcranial magnetic stimulation
 phylogenetic trees
-multi 
+multi
 management infrastructure
 fresh frozen plasma
 nash equilibrium
@@ -21002,7 +21002,7 @@ icu
 natural deduction
 nsaids
 just in compilation
-re 
+re
 data quality
 quadratic residue
 airports
@@ -21035,7 +21035,7 @@ address pace
 lipodystrophy
 peers to peers
 composition data
- 2
+2
 consultation
 value theory
 geography markup languages
@@ -21413,7 +21413,7 @@ images sensor
 chain triglyceride
 data models
 ifs
-1 
+1
 clp
 propofol
 teratoma
@@ -21747,7 +21747,7 @@ trusted third part
 iqs
 turbo pascal
 coyote
-self  avoiding walk
+self avoiding walk
 isodose
 formation systems research
 dopaminergic neuro
@@ -22201,7 +22201,7 @@ international journal of cooperative information systems
 rocchio algorithm
 tests vector
 chemotactic actor
-self  information
+self information
 markov property
 nanostructured materials
 mbpasp
@@ -23127,7 +23127,7 @@ conference
 aal
 multiplicity
 information foraging
-self  consciousnes
+self consciousnes
 hierarchical database mode
 existential quantification
 biologically neural network
@@ -23677,7 +23677,7 @@ beta-alanine
 marketing decision support systems
 element analysi
 calcium measurement
-ifn 
+ifn
 part based models
 carotid intima-media thickness
 tlr
@@ -23954,7 +23954,7 @@ gasoline
 cp-abe
 probabilistic neural networks
 stimulating hormone
-g  bobrow
+g bobrow
 distributed comput
 oriented programm
 gene expression programmer
@@ -24008,7 +24008,7 @@ eclipse framework
 compressed sens
 simplex knowledge organization system
 computer ridge
-object  process methodology
+object process methodology
 real time control systemc
 rapid prototypes
 vaccines adjuvant
@@ -24278,7 +24278,7 @@ ieee on evolutionary computation
 imperialist competitive algorithm
 privacy design
 sulfadimethoxine
-semi  infinite programm
+semi infinite programm
 slow
 mm
 null value
@@ -24763,7 +24763,7 @@ diesel exhaust
 formation technology audit
 web content system
 paint
-semi  continuity
+semi continuity
 term care
 arcinfo
 endocrine system
@@ -25119,7 +25119,7 @@ arithmetic logic units
 fce
 dreams
 e business ecosystem
-object  query language
+object query language
 arousal
 codes ethic
 behavioral science
@@ -25733,7 +25733,7 @@ programs development
 free language
 levenberg marquardt
 quantum formation
- net framework
+net framework
 error diffusion
 electron engineer
 relation
@@ -25807,7 +25807,7 @@ biochemistry
 gland administration
 itoit
 microarchitecture
-multi  source
+multi source
 sensor observations service
 genetic coded
 unmet
@@ -26314,7 +26314,7 @@ mathematical structured
 quantum cognition
 climbing fiber
 cma
-multi  touch
+multi touch
 musculoskeletal system
 multi factor authentication
 bones marrow transplantation
@@ -26327,7 +26327,7 @@ light management system
 inferior colliculus
 ce
 robust principal component analysis
-object  identifier
+object identifier
 lower
 personal healthy record
 eoq
@@ -26366,7 +26366,7 @@ error learn
 universe
 imperative programm
 titanium
-daml 
+daml
 ds-cdma
 spv
 maple syrup urine diseases
@@ -26580,7 +26580,7 @@ kw
 iaai
 discriminantanalysis
 navigation satellite system
-multi  agent system
+multi agent system
 gröbner basi
 natural revolution strategy
 c reactive programm
@@ -26614,7 +26614,7 @@ h1n1
 video game
 differential analysi
 yahoo! answers
-semi 
+semi
 waking
 quasi-newton method
 allogeneic hematopoietic stemi cell transplantation
@@ -27417,7 +27417,7 @@ bbn
 tcp control
 fic
 and price
-quasi  newton method
+quasi newton method
 peers to peers file shar
 incineration
 washing machine
@@ -28364,7 +28364,7 @@ grams negative bacteria
 cybernetics and systems
 sewage
 molap cube
-semi  supervised learn
+semi supervised learn
 virus 40
 principal components
 profile
@@ -28777,7 +28777,7 @@ multigrid methods
 mode dispersion
 logic synthesi
 agi
- 3
+3
 aerial surveys
 solutions
 rflp
@@ -28790,7 +28790,7 @@ interleukin 8
 e-science
 analgesics
 hdf
- 9
+9
 rheumatic fever
 database server
 resource plann
@@ -28814,7 +28814,7 @@ population
 phase change memory
 numerical method
 hep
-breast self  examination
+breast self examination
 dahs
 manets database
 agricultural irrigation
@@ -28880,7 +28880,7 @@ signal noise ratio
 non-small cell lung carcinoma
 warehouse management system
 gamma
-multi  expression programm
+multi expression programm
 lymphoid tissue
 ultrasonic waves
 dp
@@ -29169,7 +29169,7 @@ bsd
 futures
 constraint-based grammar
 food habit
-self  awarenes
+self awarenes
 principles and parameters
 motor neuro disease
 hospital charges
@@ -29994,7 +29994,7 @@ temporal sulcu
 positron tomography
 test automation
 diatom
-1  3
+1 3
 hog
 living lab
 statistic relational learn
@@ -30105,7 +30105,7 @@ leishmania
 mounted display
 hrct
 information science
-common object  request broker architecture
+common object request broker architecture
 cognitive development
 feret
 observations and measurement
@@ -30332,7 +30332,7 @@ eukaryotic cell
 semantics role label
 mitosi
 orthologous gene
-multi  master replication
+multi master replication
 kl one
 tests case
 health insurance portability and act
@@ -31101,7 +31101,7 @@ failure mode and analysi
 modular design
 journal of automated reason
 marrow biopsy
- 8
+8
 okapis
 voltage sensitive imag
 radial basis functional kernel
@@ -31182,7 +31182,7 @@ rpcs
 dual x ray absorptiometry
 long term survivors
 copd
- nfo
+nfo
 hierarchical linear models
 scattering parameters
 complementarity problem
@@ -31239,7 +31239,7 @@ wal
 document model
 rheumatoid arthriti
 health seven
-business object 
+business object
 isometric contraction
 gaussians proces
 security awareness
@@ -31548,7 +31548,7 @@ fact
 benign positional vertigo
 unified models
 mytilus
-object 
+object
 design automation
 water filling algorithmic
 survivor
@@ -31673,7 +31673,7 @@ endoscope
 pomdps
 poisson regression
 web language
-near 
+near
 neural network software
 amp-activated protein kinases
 cbg
@@ -32147,7 +32147,7 @@ e business organization
 support systemc
 bit array
 text messaging
-learning object  metadata
+learning object metadata
 principle of least actions
 dan
 hospital formation system
@@ -32394,7 +32394,7 @@ b splines
 morgan transplantation
 linear programming formulation
 the currents
-object  relational mapp
+object relational mapp
 inter process communications
 kernels
 medical record
