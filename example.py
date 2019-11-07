@@ -3,6 +3,27 @@ from cosine_distance import cosine_similarity
 
 model = Word2Vec.load('./modelfile/MyModel')
 
+words = ["machine learning","transfer learning","back propagation"]
+threshold = 5
+with open("dict.txt","r") as dict_file:
+    dict_words = dict_file.read().splitlines()
+    for w in words:
+        print("\""+w+"\"", end = "")
+        tmp = []
+        for d_w in dict_words:
+            if("/" in d_w):
+                index = d_w.index("/")
+                if model.wmdistance(d_w[0:index],w) < threshold or model.wmdistance(d_w[index+1:],w) < threshold:
+                    tmp.append(d_w[0:index])
+            else:
+                if model.wmdistance(d_w,w) < threshold:
+                    tmp.append(d_w)         
+        for d_w in tmp:
+            print(",\""+d_w+"\"", end = "")
+        print()
+
+
+'''
 print("----------length----------")
 print(len(model.wv.vocab))
 
@@ -21,3 +42,4 @@ print(model.wmdistance("computer","in"))
 print("----------cos----------")
 print(cosine_similarity(model['editing'],model['manipulation']))
 print(cosine_similarity(model["computer"],model["human"]))
+'''
