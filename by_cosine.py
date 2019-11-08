@@ -14,15 +14,13 @@ with open("words.txt","r") as words_file:
     with open("dict.txt","r") as dict_file:
         dict_words = dict_file.read().splitlines()
         for w in words:
-
-            if not contains(w):
-                continue
-
             print("\""+w+"\"", end = "")
             w = w.lower().split()
             w = [i for i in w if i not in stopwords]
+            if not contains(w):
+                continue
+            
             tmp = []
-
             for t_w in trans_words:
                 index = t_w.index("/")
                 t_w_origin = t_w[0:index]
