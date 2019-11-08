@@ -5,12 +5,15 @@ from nltk.corpus import stopwords
 model = Word2Vec.load('./modelfile/MyModel')
 trans_file = open("transfer_word.txt","r")
 trans_words = trans_file.read().splitlines()
-words = ["machine learning","transfer learning","back propagation","cnn","rnn","lstm","attention","gymnastic"]
+# words = ["machine learning","transfer learning","back propagation","cnn","rnn","lstm","attention","gymnastic"]
 stopwords = stopwords.words('english')
 threshold = 0.5
-with open("dict.txt","r") as dict_file:
-    dict_words = dict_file.read().splitlines()
-    for w in words:
+
+with open("words.txt","r") as words_file:
+    words = words_file.read().splitlines()
+    with open("dict.txt","r") as dict_file:
+        dict_words = dict_file.read().splitlines()
+        for w in words:
             print("\""+w+"\"", end = "")
             w = w.lower().split()
             w = [i for i in w if i not in stopwords]
@@ -24,7 +27,6 @@ with open("dict.txt","r") as dict_file:
                 t_w_origin = [i for i in t_w_origin if i not in stopwords]
                 t_w_abbr = t_w_abbr.lower().split()
                 t_w_abbr = [i for i in t_w_abbr if i not in stopwords]
-            
                 if t_w_origin == w:
                     continue
                 elif t_w_abbr == w:
@@ -36,6 +38,15 @@ with open("dict.txt","r") as dict_file:
                         continue
                     w = t_w_origin
                     tmp.append(w)
+
+            for t_w in trans_words:
+                index = t_w.index("/")
+                t_w_origin = t_w[0:index]
+                t_w_abbr = t_w[index+1:]
+                t_w_origin = t_w_origin.lower().split()
+                t_w_origin = [i for i in t_w_origin if i not in stopwords]
+                t_w_abbr = t_w_abbr.lower().split()
+                t_w_abbr = [i for i in t_w_abbr if i not in stopwords]
                     
                 flag = 0
                 for x in t_w_origin:
@@ -47,10 +58,10 @@ with open("dict.txt","r") as dict_file:
                 if flag == 1:
                     continue
 
-                if model.n_similarity(t_w_origin,w) > threshold or model.n_similarity(t_w_abbr,w) > threshold:
-                    tmp.append(t_w_origin)
-                    
-        
+            if model.n_similarity(t_w_origin,w) > threshold or model.n_similarity(t_w_abbr,w) > threshold:
+                tmp.append(t_w_origin)
+                
+    
             for d_w in dict_words:
                 d_w = d_w.lower().split()
                 d_w = [i for i in d_w if i not in stopwords]
