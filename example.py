@@ -1,35 +1,48 @@
 from gensim.models import Word2Vec
 from cosine_distance import cosine_similarity
+from nltk.corpus import stopwords
 
 model = Word2Vec.load('./modelfile/MyModel')
 trans_file = open("transfer_word.txt","r")
 trans_words = trans_file.read().splitlines()
 words = ["machine learning","transfer learning","back propagation","cnn","rnn","lstm","attention"]
+stopwords = nltk.corpus.stopwords.words('english')
 threshold = 5
 with open("dict.txt","r") as dict_file:
     dict_words = dict_file.read().splitlines()
     for w in words:
-        print("\""+w+"\"", end = "")
-        tmp = []
-        for t_w in trans_words:
+            w = w.lower().split()
+            w = [i for i in w if i not in stopwords]
+            print("\""+w+"\"", end = "")
+            tmp = []
+
+            for t_w in trans_words:
                 index = t_w.index("/")
-                if model.wmdistance(t_w[0:index],w) < threshold:
+                t_w_origin = t_w[0:index].lower().split()
+                t_w_origin = [i for i in t_w_origin if i not in stopwords]
+                t_w_abbr = t_w[index+1:].lower().split()
+                t_w_abbr = [i for i in t_w_abbr if i not in stopwords]
+                if model.wmdistance(t_w_origin,w) < threshold:
                     break
-                elif model.wmdistance(t_w[index+1:],w) < threshold:
-                    w = t_w[0:index]
-                    tmp.append(t_w[0:index])
+                elif model.wmdistance(t_w_abbr,w) < threshold:
+                    w = t_w_origin
+                    tmp.append(w)
                 else:
                     continue
                     
         
-        for d_w in dict_words:
-            if model.wmdistance(d_w,w) < threshold:
-                tmp.append(d_w)
+            for d_w in dict_words:
+                d_w = w.lower().split()
+                d_w = [i for i in d_w if i not in stopwords]
+                if d_w == w:
+                    continue
+                if model.wmdistance(d_w,w) < threshold:
+                    tmp.append(d_w)
 
-        for d_w in tmp:
-            print(",\""+d_w+"\"", end = "")
-        print()
-
+            for d_w in tmp:
+                print(",\""+d_w+"\"", end = "")
+            print()
+        
 
 '''
 print("----------length----------")
