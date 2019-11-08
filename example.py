@@ -32,7 +32,7 @@ with open("dict.txt","r") as dict_file:
                     
         
             for d_w in dict_words:
-                d_w = w.lower().split()
+                d_w = d_w.lower().split()
                 d_w = [i for i in d_w if i not in stopwords]
                 if d_w == w:
                     continue
