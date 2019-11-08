@@ -6,7 +6,7 @@ model = Word2Vec.load('./modelfile/MyModel')
 trans_file = open("transfer_word.txt","r")
 trans_words = trans_file.read().splitlines()
 words = ["machine learning","transfer learning","back propagation","cnn","rnn","lstm","attention"]
-stopwords = nltk.corpus.stopwords.words('english')
+stopwords = stopwords.words('english')
 threshold = 5
 with open("dict.txt","r") as dict_file:
     dict_words = dict_file.read().splitlines()
