@@ -58,8 +58,8 @@ with open("words.txt","r") as words_file:
                 if flag == 1:
                     continue
 
-            if model.n_similarity(t_w_origin,w) > threshold or model.n_similarity(t_w_abbr,w) > threshold:
-                tmp.append(t_w_origin)
+                if model.n_similarity(t_w_origin,w) > threshold or model.n_similarity(t_w_abbr,w) > threshold:
+                    tmp.append(t_w_origin)
                 
     
             for d_w in dict_words:
