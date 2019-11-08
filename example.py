@@ -22,7 +22,9 @@ with open("dict.txt","r") as dict_file:
                 t_w_origin = [i for i in t_w_origin if i not in stopwords]
                 t_w_abbr = t_w[index+1:].lower().split()
                 t_w_abbr = [i for i in t_w_abbr if i not in stopwords]
-                if t_w_origin == w:
+                if(t_w_origin not in model or t_w_abbr not in model):
+                    continue
+                elif t_w_origin == w:
                     continue
                 elif t_w_abbr == w:
                     w = t_w_origin
@@ -34,7 +36,7 @@ with open("dict.txt","r") as dict_file:
             for d_w in dict_words:
                 d_w = d_w.lower().split()
                 d_w = [i for i in d_w if i not in stopwords]
-                if d_w == w:
+                if d_w == w or d_w not in model:
                     continue
                 if model.n_similarity(d_w,w) < threshold:
                     tmp.append(d_w)
