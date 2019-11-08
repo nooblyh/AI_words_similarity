@@ -18,9 +18,13 @@ with open("dict.txt","r") as dict_file:
 
             for t_w in trans_words:
                 index = t_w.index("/")
-                t_w_origin = t_w[0:index].lower().split()
+                t_w_origin = t_w[0:index]
+                t_w_abbr = t_w[index+1:]
+                if t_w_origin == (" ".join(str(i) for i in w) or t_w_abbr == (" ".join(str(i) for i in w))):
+                    continue
+                t_w_origin = t_w_origin.lower().split()
                 t_w_origin = [i for i in t_w_origin if i not in stopwords]
-                t_w_abbr = t_w[index+1:].lower().split()
+                t_w_abbr = t_w_abbr.lower().split()
                 t_w_abbr = [i for i in t_w_abbr if i not in stopwords]
                 if(t_w_origin not in model or t_w_abbr not in model):
                     continue
@@ -34,9 +38,11 @@ with open("dict.txt","r") as dict_file:
                     
         
             for d_w in dict_words:
+                if d_w not in model:
+                    continue
                 d_w = d_w.lower().split()
                 d_w = [i for i in d_w if i not in stopwords]
-                if d_w == w or d_w not in model:
+                if d_w == w:
                     continue
                 if model.n_similarity(d_w,w) < threshold:
                     tmp.append(d_w)
