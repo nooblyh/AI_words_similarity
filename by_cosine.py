@@ -70,25 +70,3 @@ with open("dict.txt","r") as dict_file:
             for d_w in tmp:
                 print(",\"%s\""%(" ".join(str(i) for i in d_w)), end = "")
             print()
-        
-
-'''
-print("----------length----------")
-print(len(model.wv.vocab))
-
-print("----------wmdistance----------")
-print("image editing and image manipulation")
-print(model.wmdistance("image editing","image manipulation"))
-print("transaction processing and transactional process")
-print(model.wmdistance("transaction processing","transactional process"))
-print("support vector machines and support vector machine")
-print(model.wmdistance("support vector machines","support vector machine"))
-print("radial basis functional and radial basis functions")
-print(model.wmdistance("radial basis functional","radial basis functions"))
-print("computer and in")
-print(model.wmdistance("computer","in"))
-
-print("----------cos----------")
-print(cosine_similarity(model['editing'],model['manipulation']))
-print(cosine_similarity(model["computer"],model["human"]))
-'''

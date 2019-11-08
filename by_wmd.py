@@ -24,18 +24,43 @@ with open("dict.txt","r") as dict_file:
                 t_w_origin = [i for i in t_w_origin if i not in stopwords]
                 t_w_abbr = t_w[index+1:].lower().split()
                 t_w_abbr = [i for i in t_w_abbr if i not in stopwords]
-                if model.wmdistance(t_w_origin,w) == 0:
+
+                flag = 0
+                for x in t_w_origin:
+                    if x not in model:
+                        flag = 1
+                if flag == 1:
                     continue
-                elif model.wmdistance(t_w_abbr,w) == 0:
+
+                if t_w_origin == w:
+                    continue
+                elif t_w_abbr == w:
                     w = t_w_origin
                     tmp.append(w)
-                elif model.wmdistance(t_w_origin,w) < threshold or model.wmdistance(t_w_abbr,w) < threshold:
+                    continue
+                else:
+                    flag = 0
+                    for x in t_w_abbr:
+                        if x not in model:
+                            flag = 1
+                    if flag == 1:
+                        continue
+
+                if model.wmdistance(t_w_origin,w) < threshold or model.wmdistance(t_w_abbr,w) < threshold:
                     tmp.append(t_w_origin)
                     
         
             for d_w in dict_words:
                 d_w = d_w.lower().split()
                 d_w = [i for i in d_w if i not in stopwords]
+
+                flag = 0
+                for x in d_w:
+                    if x not in model:
+                        flag = 1
+                if flag == 1:
+                    continue
+
                 if d_w == w:
                     continue
                 if model.wmdistance(d_w,w) < threshold:
