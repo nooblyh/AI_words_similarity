@@ -22,9 +22,9 @@ with open("dict.txt","r") as dict_file:
                 t_w_origin = [i for i in t_w_origin if i not in stopwords]
                 t_w_abbr = t_w[index+1:].lower().split()
                 t_w_abbr = [i for i in t_w_abbr if i not in stopwords]
-                if model.wmdistance(t_w_origin,w) == threshold:
+                if model.wmdistance(t_w_origin,w) == 0:
                     continue
-                elif model.wmdistance(t_w_abbr,w) == threshold:
+                elif model.wmdistance(t_w_abbr,w) == 0:
                     w = t_w_origin
                     tmp.append(w)
                 elif model.wmdistance(t_w_origin,w) < threshold or model.wmdistance(t_w_abbr,w) < threshold:
