@@ -1,4 +1,5 @@
 natural language generation/nlg
+recurrent neural network/rnn
 tensor processing units/tpu
 conditional random field/crf
 stacked deconvolutional network/sdn
