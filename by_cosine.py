@@ -14,6 +14,10 @@ with open("words.txt","r") as words_file:
     with open("dict.txt","r") as dict_file:
         dict_words = dict_file.read().splitlines()
         for w in words:
+
+            if not contains(w):
+                continue
+
             print("\""+w+"\"", end = "")
             w = w.lower().split()
             w = [i for i in w if i not in stopwords]
@@ -30,11 +34,7 @@ with open("words.txt","r") as words_file:
                 if t_w_origin == w:
                     continue
                 elif t_w_abbr == w:
-                    flag = 0
-                    for x in t_w_origin:
-                        if x not in model:
-                            flag = 1
-                    if flag == 1:
+                    if not contains(t_w_origin):
                         continue
                     w = t_w_origin
                     tmp.append(w)
@@ -48,14 +48,7 @@ with open("words.txt","r") as words_file:
                 t_w_abbr = t_w_abbr.lower().split()
                 t_w_abbr = [i for i in t_w_abbr if i not in stopwords]
                     
-                flag = 0
-                for x in t_w_origin:
-                    if x not in model:
-                        flag = 1
-                for x in t_w_abbr:
-                    if x not in model:
-                        flag = 1
-                if flag == 1:
+                if not contains(t_w_origin) or not contains(t_w_abbr):
                     continue
 
                 if model.n_similarity(t_w_origin,w) > threshold or model.n_similarity(t_w_abbr,w) > threshold:
@@ -65,14 +58,7 @@ with open("words.txt","r") as words_file:
             for d_w in dict_words:
                 d_w = d_w.lower().split()
                 d_w = [i for i in d_w if i not in stopwords]
-                if d_w == w or d_w == []:
-                    continue
-
-                flag = 0
-                for x in d_w:
-                    if x not in model:
-                        flag = 1
-                if flag == 1:
+                if d_w == w or d_w == [] or not contains(d_w):
                     continue
 
                 if model.n_similarity(d_w,w) > threshold:
@@ -81,3 +67,13 @@ with open("words.txt","r") as words_file:
             for d_w in tmp:
                 print(",\"%s\""%(" ".join(str(i) for i in d_w)), end = "")
             print()
+
+def contains(phrase):
+    flag = 0
+    for x in phrase:
+        if x not in model:
+            flag = 1
+    if flag == 1:
+        return False
+    else:
+        return True
