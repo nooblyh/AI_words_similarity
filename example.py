@@ -40,7 +40,7 @@ with open("dict.txt","r") as dict_file:
                     continue
                 d_w = d_w.lower().split()
                 d_w = [i for i in d_w if i not in stopwords]
-                if d_w == w:
+                if d_w == w or d_w == []:
                     continue
                 if model.n_similarity(d_w,w) > threshold:
                     tmp.append(d_w)
