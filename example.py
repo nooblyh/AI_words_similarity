@@ -5,7 +5,7 @@ from nltk.corpus import stopwords
 model = Word2Vec.load('./modelfile/MyModel')
 trans_file = open("transfer_word.txt","r")
 trans_words = trans_file.read().splitlines()
-words = ["machine learning","transfer learning","back propagation","cnn","rnn","lstm","attention"]
+words = ["machine learning","transfer learning","back propagation","cnn","rnn","lstm","attention","gymnastic"]
 stopwords = stopwords.words('english')
 threshold = 5
 with open("dict.txt","r") as dict_file:
@@ -22,12 +22,12 @@ with open("dict.txt","r") as dict_file:
                 t_w_origin = [i for i in t_w_origin if i not in stopwords]
                 t_w_abbr = t_w[index+1:].lower().split()
                 t_w_abbr = [i for i in t_w_abbr if i not in stopwords]
-                if model.wmdistance(t_w_origin,w) == 0:
+                if t_w_origin == w:
                     continue
-                elif model.wmdistance(t_w_abbr,w) == 0:
+                elif t_w_abbr == w:
                     w = t_w_origin
                     tmp.append(w)
-                elif model.wmdistance(t_w_origin,w) < threshold or model.wmdistance(t_w_abbr,w) < threshold:
+                elif model.n_similarity(t_w_origin,w) < threshold or model.n_similarity(t_w_abbr,w) < threshold:
                     tmp.append(t_w_origin)
                     
         
@@ -36,7 +36,7 @@ with open("dict.txt","r") as dict_file:
                 d_w = [i for i in d_w if i not in stopwords]
                 if d_w == w:
                     continue
-                if model.wmdistance(d_w,w) < threshold:
+                if model.n_similarity(d_w,w) < threshold:
                     tmp.append(d_w)
 
             for d_w in tmp:
