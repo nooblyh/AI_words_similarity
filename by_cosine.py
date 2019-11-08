@@ -7,7 +7,7 @@ trans_file = open("transfer_word.txt","r")
 trans_words = trans_file.read().splitlines()
 # words = ["machine learning","transfer learning","back propagation","cnn","rnn","lstm","attention","gymnastic"]
 stopwords = stopwords.words('english')
-threshold = 0.5
+threshold = 0.7
 
 with open("words.txt","r") as words_file:
     words = words_file.read().splitlines()
