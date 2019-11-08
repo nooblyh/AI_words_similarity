@@ -9,6 +9,16 @@ trans_words = trans_file.read().splitlines()
 stopwords = stopwords.words('english')
 threshold = 0.7
 
+def contains(phrase):
+    flag = 0
+    for x in phrase:
+        if x not in model:
+            flag = 1
+    if flag == 1:
+        return False
+    else:
+        return True
+
 with open("words.txt","r") as words_file:
     words = words_file.read().splitlines()
     with open("dict.txt","r") as dict_file:
@@ -19,7 +29,7 @@ with open("words.txt","r") as words_file:
             w = [i for i in w if i not in stopwords]
             if not contains(w):
                 continue
-            
+
             tmp = []
             for t_w in trans_words:
                 index = t_w.index("/")
@@ -65,13 +75,3 @@ with open("words.txt","r") as words_file:
             for d_w in tmp:
                 print(",\"%s\""%(" ".join(str(i) for i in d_w)), end = "")
             print()
-
-def contains(phrase):
-    flag = 0
-    for x in phrase:
-        if x not in model:
-            flag = 1
-    if flag == 1:
-        return False
-    else:
-        return True
