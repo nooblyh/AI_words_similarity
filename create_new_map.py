@@ -13,9 +13,9 @@ with open("dict.txt","r") as dict_file:
         words = words_file.read().splitlines()
         dict_words = dict_file.read().splitlines()
         for w in words:
+            print("\""+w+"\"", end = "")
             w = w.lower().split()
             w = [i for i in w if i not in stopwords]
-            print("\""+w+"\"", end = "")
             tmp = []
 
             for t_w in trans_words:
@@ -42,7 +42,7 @@ with open("dict.txt","r") as dict_file:
                     tmp.append(d_w)
 
             for d_w in tmp:
-                print(",\""+d_w+"\"", end = "")
+                print(",\"%s\""%(" ".join(str(i) for i in d_w)), end = "")
             print()
             
 trans_file.close()
