@@ -26,10 +26,12 @@ def find_similar(words, model, threshold=2.0):
         if threshold > disctance:
             print(l)
             print(disctance)
+            '''
             if(word_count(l[0]) > word_count(l[1])):
                 print("choose %s"%l[0])
             else:
                 print("choose %s"%l[1])
+            '''
             
 
 def word_count(word):
