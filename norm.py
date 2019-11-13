@@ -8,11 +8,14 @@ with open("words.txt","r") as words_file:
     words = words_file.read().splitlines()
 
 for i in range(0,len(words)):
-    print(words[i])
     for j in range(i+1,len(words)):
         disctance = model.wmdistance(words[i],words[j])
-        if threshold < disctance:
-            print(words[j])
-        else:
+        if threshold > disctance:
+            print(words[i]+"\t"+words[j])
+            print(disctance)
             words.pop(j)
             j=j-1
+    
+to = open("new_words.txt",'w',encoding="UTF-8")
+for w in words:
+    to.write(w+"\n")
