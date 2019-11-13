@@ -1,7 +1,3 @@
-3
-4
-13
-20
 real-time computing
 lpr
 nlm
@@ -1022,7 +1018,6 @@ x window systems
 semantic data models
 visual objects
 access control
-n 1
 automaton
 signaling protein
 qgi
@@ -1030,7 +1025,6 @@ wtap
 proestrus
 lmnn
 fixed points number
-3-4
 bridge system
 phosphate
 formation need
@@ -4403,7 +4397,6 @@ congenital heart defect
 loss functional
 eurotra
 maxima and minima
-3-5
 domain method
 fetal membranes
 cpu cache
@@ -6266,7 +6259,6 @@ coincidence point
 information systemc
 discovery rate
 imagej edit
-3-d
 emergency response systemc
 sleep stage
 sequential pattern min
@@ -6664,7 +6656,6 @@ simulation based optimization
 organic comput
 mycobacterium infection
 pedicle screws
-1--3
 gastriti
 map
 bmc bioinformatic
@@ -14364,7 +14355,6 @@ read-write memory
 knowledge level
 myopathy
 onc
-2-3
 software architecture
 weighted voronoi diagram
 dopamine transport
@@ -17897,7 +17887,6 @@ hydrology
 linear approximation
 health information exchangers
 cross-correlation
-3-
 seu
 asn
 collaboration graphs
@@ -20350,7 +20339,6 @@ web applications
 universal radio peripheral
 k nearest neighbor algorithm
 martes
--3
 good
 human centered comput
 palm os
@@ -25682,7 +25670,6 @@ interactivity
 implicit parallelism
 rheumatoid factor
 agricultural crops
-1-3
 static
 dimerization
 soybeans
@@ -32444,7 +32431,6 @@ nerves growth factor
 endoplasmic reticulum stres
 lca
 amino sequence
-
 resistance training
 bee
 phy
