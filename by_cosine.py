@@ -7,30 +7,47 @@ trans_file = open("transfer_word.txt","r")
 trans_words = trans_file.read().splitlines()
 # words = ["machine learning","transfer learning","back propagation","cnn","rnn","lstm","attention","gymnastic"]
 stopwords = stopwords.words('english')
-threshold = 0.7
+threshold = 0.8
+N= 3  #指定的最多相似词个数
+
 
 def contains(phrase):
-    flag = 0
     for x in phrase:
         if x not in model:
-            flag = 1
-    if flag == 1:
-        return False
+            return False
+    return True
+
+# 添加同义词，newterm为新匹配的同义词，newValue为相似度,termlist为已有的同义词列表
+def add(termlist,newterm,newValve,count):
+
+    if count < N:
+        termlist.append([newterm,newValve])
+        termlist.sort(key=lambda x:x[1],reverse=True)
+    
+    elif newValve < termlist[len(termlist)-2][1]:
+        return count
     else:
-        return True
+        del(termlist[-1])
+        termlist.append([newterm,newValve])
+        termlist.sort(key=lambda x:x[1],reverse=True)
+
+    return count+1
 
 with open("words.txt","r") as words_file:
     words = words_file.read().splitlines()
     with open("dict.txt","r") as dict_file:
         dict_words = dict_file.read().splitlines()
+       
         for w in words:
+            count = 1 
+           
             print("\""+w+"\"", end = "")
             w = w.lower().split()
             w = [i for i in w if i not in stopwords]
-            if not contains(w):
+            if not contains(w) or w ==[]:
                 continue
 
-            tmp = []
+            tmp = [[" ",0]]
             for t_w in trans_words:
                 index = t_w.index("/")
                 t_w_origin = t_w[0:index]
@@ -45,8 +62,10 @@ with open("words.txt","r") as words_file:
                     if not contains(t_w_origin):
                         continue
                     w = t_w_origin
-                    tmp.append(w)
+                    tmp.append([w,1])
+                    count = count+1
 
+            
             for t_w in trans_words:
                 index = t_w.index("/")
                 t_w_origin = t_w[0:index]
@@ -59,10 +78,10 @@ with open("words.txt","r") as words_file:
                 if not contains(t_w_origin) or not contains(t_w_abbr):
                     continue
 
-                if model.n_similarity(t_w_origin,w) > threshold or model.n_similarity(t_w_abbr,w) > threshold:
-                    tmp.append(t_w_origin)
-                
-    
+                if model.n_similarity(t_w_origin,w) > threshold or model.n_similarity(t_w_abbr,w) > threshold:    
+                    count = add(tmp,t_w_origin,model.n_similarity(t_w_origin,w),count)                    
+                      
+            
             for d_w in dict_words:
                 d_w = d_w.lower().split()
                 d_w = [i for i in d_w if i not in stopwords]
@@ -70,8 +89,13 @@ with open("words.txt","r") as words_file:
                     continue
 
                 if model.n_similarity(d_w,w) > threshold:
-                    tmp.append(d_w)
+                    count=add(tmp,d_w,model.n_similarity(d_w,w),count)
+                   
 
-            for d_w in tmp:
-                print(",\"%s\""%(" ".join(str(i) for i in d_w)), end = "")
+           
+            for Item in tmp:
+                if not ''.join(Item[0])==" ":
+                    print(",\"%s\""%(" ".join(str(i) for i in Item[0])) ,end="")
+            
+           
             print()
