@@ -13,4 +13,4 @@ for word in words:
     for s in sentences:
         if word in s:
             count += 1
-    print("\""+word+"\","+count)
+    print("\"" + word + "\"," + str(count))
