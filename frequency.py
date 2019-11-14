@@ -5,7 +5,6 @@ text = get_data()
 for l in text:
     sentence = " ".join(str(w) for w in l)
     sentences.append(sentence)
-print("开始统计词频")
 with open("words.txt","r") as words_file:
     words = words_file.read().splitlines()
 for word in words:
