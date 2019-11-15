@@ -36,7 +36,7 @@ if __name__ == "__main__":
             lw2 = w2.split()
             if len(lw1) == len(lw2) and same_words(lw1,lw2):
                 print(w1+"\t"+w2)
-                if frequency[w1] > frequency[w2]:
+                if frequency[w1] < frequency[w2]:
                     words.remove(w1)
                     i = i-1
                     break
