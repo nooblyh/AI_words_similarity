@@ -2,7 +2,7 @@ from gensim.models import Word2Vec
 from cosine_distance import cosine_similarity
 from nltk.corpus import stopwords
 
-model = Word2Vec.load('./modelfile/MyModel')
+model = Word2Vec.load('./modelfile/gensim-model-6zsjp5z5')
 trans_file = open("transfer_word.txt","r")
 trans_words = trans_file.read().splitlines()
 # words = ["machine learning","transfer learning","back propagation","cnn","rnn","lstm","attention","gymnastic"]
