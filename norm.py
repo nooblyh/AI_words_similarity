@@ -37,10 +37,12 @@ if __name__ == "__main__":
             if len(lw1) == len(lw2) and same_words(lw1,lw2):
                 print(w1+"\t"+w2)
                 if frequency[w1] < frequency[w2]:
+                    print("选择%s,删去%s"%(w2,w1))
                     words.remove(w1)
                     i = i-1
                     break
                 else:
+                    print("选择%s,删去%s"%(w1,w2))
                     words.remove(w2)
                     j = j-1
             j = j+1
