@@ -36,6 +36,8 @@ if __name__ == "__main__":
             lw2 = w2.split()
             if len(lw1) == len(lw2) and same_words(lw1,lw2):
                 print(w1+"\t"+w2)
+                if frequency[w1] == frequency[w2] ==0:
+                    print("两个词都不存在")
                 if frequency[w1] < frequency[w2]:
                     print("选择%s,删去%s"%(w2,w1))
                     words.remove(w1)
