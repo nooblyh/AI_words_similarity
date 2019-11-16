@@ -1,0 +1,923 @@
+3 d images	3 d image
+两个词都不存在
+--
+item responses theory	items response theory
+两个词都不存在
+--
+gps signals	gps signal
+两个词都不存在
+--
+microsoft windows	microsoft window
+两个词都不存在
+--
+graphical user interfaces test	graphical users interface test
+两个词都不存在
+--
+graphical user interfaces test	graphical user interface tests
+两个词都不存在
+--
+graphical user interfaces test	graphical user interface test
+两个词都不存在
+--
+ieee transactions on patterns analysis and machine intelligence	ieee transactions on pattern analysis and machines intelligence
+两个词都不存在
+--
+ieee transactions on patterns analysis and machine intelligence	ieee transactions on pattern analysis and machine intelligence
+两个词都不存在
+--
+ieee transactions on patterns analysis and machine intelligence	ieee transaction on pattern analysis and machine intelligence
+两个词都不存在
+--
+klinefelter syndrome	klinefelter syndromes
+两个词都不存在
+--
+dynamics markov compression	dynamic markov compression
+两个词都不存在
+--
+luc steels	luc steel
+两个词都不存在
+--
+oracle spatial and graphs	oracle spatial and graph
+两个词都不存在
+--
+dynamic html	dynamics html
+两个词都不存在
+--
+hungarian language	hungarian languages
+两个词都不存在
+--
+the open group architectures framework	the open group architecture framework
+两个词都不存在
+--
+the open group architectures framework	the open groups architecture framework
+两个词都不存在
+--
+buchbergers algorithms	buchbergers algorithm
+两个词都不存在
+--
+international conference on autonomous agent and multiagent system	international conferences on autonomous agents and multiagent system
+两个词都不存在
+--
+international conference on autonomous agent and multiagent system	international conference on autonomous agents and multiagent system
+两个词都不存在
+--
+international conference on autonomous agent and multiagent system	international conference on autonomous agents and multiagent systems
+两个词都不存在
+--
+resource reservation protocol	resource reservation protocols
+两个词都不存在
+--
+resource reservation protocol	resources reservation protocol
+两个词都不存在
+--
+international association for pattern recognition	international association for patterns recognition
+两个词都不存在
+--
+pan american health organization	pan american health organizations
+两个词都不存在
+--
+x window systems	x windows system
+两个词都不存在
+--
+x window systems	x window system
+两个词都不存在
+--
+opensource maturity model	opensource maturity models
+两个词都不存在
+--
+khepera mobile robots	khepera mobile robot
+两个词都不存在
+--
+sensors observation service	sensor observation services
+两个词都不存在
+--
+preference architecture	preferences architecture
+两个词都不存在
+--
+fingers vein recognition	finger veins recognition
+两个词都不存在
+--
+streaming simd extensions	streaming simd extension
+两个词都不存在
+--
+euler methods	euler method
+两个词都不存在
+--
+epstein barr virus infections	epstein barr virus infection
+两个词都不存在
+--
+absorbing markov chains	absorbing markov chain
+两个词都不存在
+--
+underwater computers vision	underwater computer vision
+两个词都不存在
+--
+dopamine d2 receptors	dopamine d2 receptor
+两个词都不存在
+--
+diffuse large b cells lymphoma	diffuse large b cell lymphomas
+两个词都不存在
+--
+diffuse large b cells lymphoma	diffuse large b cell lymphoma
+两个词都不存在
+--
+lesk algorithm	lesk algorithms
+两个词都不存在
+--
+indonesian language	indonesian languages
+两个词都不存在
+--
+bcjr algorithms	bcjr algorithm
+两个词都不存在
+--
+multi users mimo	multi user mimo
+两个词都不存在
+--
+multi users mimo	multi user mimo
+两个词都不存在
+--
+id3 algorithm	id3 algorithms
+两个词都不存在
+--
+variable order markov models	variables order markov model
+两个词都不存在
+--
+variable order markov models	variable order markov model
+两个词都不存在
+--
+kerr effects	kerr effect
+两个词都不存在
+--
+ensembles kalman filter	ensemble kalman filters
+两个词都不存在
+--
+ensembles kalman filter	ensemble kalman filter
+两个词都不存在
+--
+gaba receptor	gaba receptors
+两个词都不存在
+--
+rett syndromes	rett syndrome
+两个词都不存在
+--
+helmholtz machines	helmholtz machine
+两个词都不存在
+--
+fragile x syndromes	fragile x syndrome
+两个词都不存在
+--
+markov chains monte carlo	markov chain monte carlo
+两个词都不存在
+--
+esp game	esp games
+两个词都不存在
+--
+burkitt lymphomas	burkitt lymphoma
+两个词都不存在
+--
+williams syndromes	williams syndrome
+两个词都不存在
+--
+jacek m zurada	jacek m zurada
+两个词都不存在
+--
+3d reconstruction from multiple images	3d reconstruction from multiple image
+两个词都不存在
+--
+von neumann architecture	von neumann architectures
+两个词都不存在
+--
+universal turing machine	universal turing machines
+两个词都不存在
+--
+th17 cells	th17 cell
+两个词都不存在
+--
+voltage preferences	voltage preference
+两个词都不存在
+--
+steiner tree problems	steiner tree problem
+两个词都不存在
+--
+steiner tree problems	steiner trees problem
+两个词都不存在
+--
+vector products format	vectors product format
+两个词都不存在
+--
+vector products format	vector product format
+两个词都不存在
+--
+orthogonal defect classification	orthogonal defects classification
+两个词都不存在
+--
+tcp congestion control	tcp congestion controls
+两个词都不存在
+--
+interlingual machines translation	interlingual machine translations
+两个词都不存在
+--
+http live streams	http live stream
+两个词都不存在
+--
+http live streams	https live stream
+两个词都不存在
+--
+preferences implementation	preference implementation
+两个词都不存在
+--
+conjugate variables	conjugate variable
+两个词都不存在
+--
+middle east respiratory syndrome	middle east respiratory syndromes
+两个词都不存在
+--
+european conference on artificial intelligence	european conferences on artificial intelligence
+两个词都不存在
+--
+graph abstract data type	graph abstract data types
+两个词都不存在
+--
+graph abstract data type	graphs abstract data type
+两个词都不存在
+--
+mannose binding protein associated serine protease	mannose binding proteins associated serine protease
+两个词都不存在
+--
+mannose binding protein associated serine protease	mannose binding protein associated serine proteases
+两个词都不存在
+--
+java modeling language	java modeling languages
+两个词都不存在
+--
+key value databases	key values database
+两个词都不存在
+--
+network for earthquakes engineering simulation	network for earthquake engineering simulation
+两个词都不存在
+--
+network for earthquakes engineering simulation	networks for earthquake engineering simulation
+两个词都不存在
+--
+alzheimers diseases	alzheimers disease
+两个词都不存在
+--
+journal of strategic information system	journal of strategic information systems
+两个词都不存在
+--
+nlrp1 gene	nlrp1 genes
+两个词都不存在
+--
+a/b tests	a/b test
+两个词都不存在
+--
+left ventricular structure	left ventricular structures
+两个词都不存在
+--
+defense data network	defense data networks
+两个词都不存在
+--
+hepatitis c virus infections	hepatitis c virus infection
+两个词都不存在
+--
+pan troglodyte	pan troglodytes
+两个词都不存在
+--
+proteins information resource	protein information resources
+两个词都不存在
+--
+klees measure problems	klees measures problem
+两个词都不存在
+--
+klees measure problems	klees measure problem
+两个词都不存在
+--
+acm transactions on databases system	acm transactions on database systems
+两个词都不存在
+--
+acm transactions on databases system	acm transaction on database system
+两个词都不存在
+--
+acm transactions on databases system	acm transactions on database system
+两个词都不存在
+--
+otsus method	otsus methods
+两个词都不存在
+--
+interferons type i	interferon types i
+两个词都不存在
+--
+interferons type i	interferon type i
+两个词都不存在
+--
+adapter pattern	adapter patterns
+两个词都不存在
+--
+logic in computer sciences	logic in computers science
+两个词都不存在
+--
+a new kind of sciences	a new kind of science
+两个词都不存在
+--
+creutzfeldt jakob diseases	creutzfeldt jakob disease
+两个词都不存在
+--
+zika virus infection	zika virus infections
+两个词都不存在
+--
+applied computer sciences	applied computers science
+两个词都不存在
+--
+window live	windows live
+两个词都不存在
+--
+r* tree	r* trees
+两个词都不存在
+--
+brassica napu	brassica napus
+两个词都不存在
+--
+systems bisimulation	system bisimulation
+两个词都不存在
+--
+information processing letters	information processing letter
+两个词都不存在
+--
+rasch model	rasch models
+两个词都不存在
+--
+phrase structures grammar	phrases structure grammar
+两个词都不存在
+--
+music algorithms	music algorithm
+两个词都不存在
+--
+prl genes	prl gene
+两个词都不存在
+--
+amp activated protein kinases	amp activated proteins kinase
+两个词都不存在
+--
+amp activated protein kinases	amp activated protein kinase
+两个词都不存在
+--
+behavioral risk factors surveillance system	behavioral risk factor surveillance system
+两个词都不存在
+--
+behavioral risk factors surveillance system	behavioral risk factor surveillance systems
+两个词都不存在
+--
+fcn2 gene	fcn2 genes
+两个词都不存在
+--
+simple networks management protocol	simple network management protocols
+两个词都不存在
+--
+symposium on operating systems principle	symposium on operating system principle
+两个词都不存在
+--
+symposium on operating systems principle	symposium on operating systems principles
+两个词都不存在
+--
+hilberts tenth problems	hilberts tenth problem
+两个词都不存在
+--
+hilberts tenth problems	hilbert tenth problem
+两个词都不存在
+--
+darpa grand challenges	darpa grand challenge
+两个词都不存在
+--
+hungarian algorithms	hungarian algorithm
+两个词都不存在
+--
+the new york time	the new york times
+两个词都不存在
+--
+joints conference on digital librarie	joint conferences on digital librarie
+两个词都不存在
+--
+cells cycle control	cell cycle controls
+两个词都不存在
+--
+epoc operating system	epoc operating systems
+两个词都不存在
+--
+a* search algorithm	a* search algorithms
+两个词都不存在
+--
+unified medical languages system	unified medical language systems
+两个词都不存在
+--
+3d interaction	3d interactions
+两个词都不存在
+--
+web rules language	web rule languages
+两个词都不存在
+--
+hodgkin–huxley model	hodgkin–huxley models
+两个词都不存在
+--
+ai challenges	ai challenge
+两个词都不存在
+--
+kuramoto models	kuramoto model
+两个词都不存在
+--
+nyström methods	nyström method
+两个词都不存在
+--
+metabolic syndrome x	metabolic syndromes x
+两个词都不存在
+--
+ifih1 gene	ifih1 genes
+两个词都不存在
+--
+kahn process networks	kahn process network
+两个词都不存在
+--
+european association for machine translations	european association for machines translation
+两个词都不存在
+--
+european association for machine translations	european association for machine translation
+两个词都不存在
+--
+non uniform rational b splines	non uniform rational b spline
+两个词都不存在
+--
+cdsss	cdss
+两个词都不存在
+--
+hidden markov random field	hidden markov random fields
+两个词都不存在
+--
+botulinum toxins type a	botulinum toxin types a
+两个词都不存在
+--
+botulinum toxins type a	botulinum toxin type a
+两个词都不存在
+--
+theoretical computers science	theoretical computer sciences
+两个词都不存在
+--
+biba models	biba model
+两个词都不存在
+--
+google fusion tables	google fusion table
+两个词都不存在
+--
+battle management languages	battle management language
+两个词都不存在
+--
+diagnostic tree	diagnostic trees
+两个词都不存在
+--
+de novo protein structures prediction	de novo proteins structure prediction
+两个词都不存在
+--
+change detection and notification	changes detection and notification
+两个词都不存在
+--
+pacific asia conferences on information system	pacific asia conference on information systems
+两个词都不存在
+--
+pacific asia conferences on information system	pacific asia conference on information system
+两个词都不存在
+--
+macy conference	macy conferences
+两个词都不存在
+--
+dna databases	dna database
+两个词都不存在
+--
+reviews publication type	review publication type
+两个词都不存在
+--
+dpll algorithm	dpll algorithms
+两个词都不存在
+--
+ieee transaction on evolutionary computation	ieee transactions on evolutionary computation
+两个词都不存在
+--
+health information national trends surveys	health information national trends survey
+两个词都不存在
+--
+national centers for geographic information and analysi	national center for geographic information and analysi
+两个词都不存在
+--
+preference book	preferences book
+两个词都不存在
+--
+collagen type i	collagen types i
+两个词都不存在
+--
+shors algorithms	shors algorithm
+两个词都不存在
+--
+clostridium difficile infections	clostridium difficile infection
+两个词都不存在
+--
+local outliers factor	local outlier factors
+两个词都不存在
+--
+mbl2 gene	mbl2 genes
+两个词都不存在
+--
+fukushima nuclear accident	fukushima nuclear accidents
+两个词都不存在
+--
+wilson currents mirror	wilson current mirror
+两个词都不存在
+--
+predictive model markup language	predictive model markup languages
+两个词都不存在
+--
+predictive model markup language	predictive models markup language
+两个词都不存在
+--
+quasi newton method	quasi newton method
+两个词都不存在
+--
+clinical documents architecture	clinical document architectures
+两个词都不存在
+--
+hiv infections	hiv infection
+两个词都不存在
+--
+grovers algorithm	grovers algorithms
+两个词都不存在
+--
+toll like receptor 6	toll like receptors 6
+两个词都不存在
+--
+cushing syndromes	cushing syndrome
+两个词都不存在
+--
+european journal of information systems	european journal of information system
+两个词都不存在
+--
+participatory gi	participatory gis
+两个词都不存在
+--
+grid preference	grid preferences
+两个词都不存在
+--
+markov logic networks	markov logic network
+两个词都不存在
+--
+b cells lymphoma	b cell lymphomas
+两个词都不存在
+--
+b cells lymphoma	b cell lymphoma
+两个词都不存在
+--
+columns oriented dbm	column oriented dbm
+两个词都不存在
+--
+international joints conference on artificial intelligence	international joint conferences on artificial intelligence
+两个词都不存在
+--
+information science institute	information sciences institute
+两个词都不存在
+--
+network abstraction layers	networks abstraction layer
+两个词都不存在
+--
+optics algorithm	optic algorithm
+两个词都不存在
+--
+optics algorithm	optics algorithms
+两个词都不存在
+--
+resting state fmri	resting states fmri
+两个词都不存在
+--
+nao robot	nao robots
+两个词都不存在
+--
+monte carlo algorithms	monte carlo algorithm
+两个词都不存在
+--
+visibility graphs analysi	visibility graph analysi
+两个词都不存在
+--
+beidou navigation satellite system	beidou navigation satellite systems
+两个词都不存在
+--
+syn floods	syn flood
+两个词都不存在
+--
+weber problems	weber problem
+两个词都不存在
+--
+ojas rule	ojas rules
+两个词都不存在
+--
+architecture of integrated information system	architectures of integrated information system
+两个词都不存在
+--
+architecture of integrated information system	architecture of integrated information systems
+两个词都不存在
+--
+qr algorithms	qr algorithm
+两个词都不存在
+--
+time reversal signal process	times reversal signal process
+两个词都不存在
+--
+time reversal signal process	time reversal signals process
+两个词都不存在
+--
+euclidean algorithm	euclidean algorithms
+两个词都不存在
+--
+journal of machines learning research	journal of machine learning research
+两个词都不存在
+--
+hierarchical databases model	hierarchical database models
+两个词都不存在
+--
+international conference on logic programm	international conferences on logic programm
+两个词都不存在
+--
+association for information systems	association for information system
+两个词都不存在
+--
+international joints conference on automated reason	international joint conferences on automated reason
+两个词都不存在
+--
+international joints conference on automated reason	international joint conference on automated reason
+两个词都不存在
+--
+business & information system engineer	business & information systems engineer
+两个词都不存在
+--
+prostaglandin e2	prostaglandins e2
+两个词都不存在
+--
+t cell lymphomas	t cell lymphoma
+两个词都不存在
+--
+t cell lymphomas	t cells lymphoma
+两个词都不存在
+--
+caffeic acid phenethyl esters	caffeic acids phenethyl ester
+两个词都不存在
+--
+angiotensins ii	angiotensin ii
+两个词都不存在
+--
+self preference	self preferences
+两个词都不存在
+--
+3d computer graphic	3d computers graphic
+两个词都不存在
+--
+3d computer graphic	3d computer graphics
+两个词都不存在
+--
+americas conferences on information system	americas conference on information system
+两个词都不存在
+--
+americas conferences on information system	americas conference on information systems
+两个词都不存在
+--
+tlr4 genes	tlr4 gene
+两个词都不存在
+--
+nlr proteins	nlr protein
+两个词都不存在
+--
+simple knowledge organization systems	simple knowledge organization system
+两个词都不存在
+--
+simple knowledge organization systems	simple knowledge organizations system
+两个词都不存在
+--
+transfer based machines translation	transfer based machine translations
+两个词都不存在
+--
+mcgurk effects	mcgurk effect
+两个词都不存在
+--
+interactive machines translation	interactive machine translations
+两个词都不存在
+--
+legendre polynomial	legendre polynomials
+两个词都不存在
+--
+international symposium on wearable computers	international symposium on wearable computer
+两个词都不存在
+--
+time domains reflectometry	times domain reflectometry
+两个词都不存在
+--
+dynamics xml	dynamic xml
+两个词都不存在
+--
+prader willi syndromes	prader willi syndrome
+两个词都不存在
+--
+specification and description languages	specification and description language
+两个词都不存在
+--
+swiss models	swiss model
+两个词都不存在
+--
+nod1 genes	nod1 gene
+两个词都不存在
+--
+timestamp based concurrency controls	timestamp based concurrency control
+两个词都不存在
+--
+preference standard	preferences standard
+两个词都不存在
+--
+genes expression programm	gene expressions programm
+两个词都不存在
+--
+daniel g bobrow	daniels g bobrow
+两个词都不存在
+--
+daniel g bobrow	daniel g bobrow
+两个词都不存在
+--
+theta model	theta models
+两个词都不存在
+--
+jacobi method	jacobi methods
+两个词都不存在
+--
+united states food and drugs administration	united states food and drug administration
+两个词都不存在
+--
+united states food and drugs administration	united states foods and drug administration
+两个词都不存在
+--
+united states food and drugs administration	united state food and drug administration
+两个词都不存在
+--
+mnist database	mnist databases
+两个词都不存在
+--
+apache strut	apache struts
+两个词都不存在
+--
+american college of surgeons	american college of surgeon
+两个词都不存在
+--
+conways games of life	conways game of life
+两个词都不存在
+--
+hybrids monte carlo	hybrid monte carlo
+两个词都不存在
+--
+open minds common sense	open mind common sense
+两个词都不存在
+--
+arabic machine translations	arabic machine translation
+两个词都不存在
+--
+arabic machine translations	arabic machines translation
+两个词都不存在
+--
+fabry disease	fabry diseases
+两个词都不存在
+--
+tlr9 gene	tlr9 genes
+两个词都不存在
+--
+australasian conference on information system	australasian conference on information systems
+两个词都不存在
+--
+australasian conference on information system	australasian conferences on information system
+两个词都不存在
+--
+dijkstras algorithms	dijkstras algorithm
+两个词都不存在
+--
+international journal of cooperative information system	international journal of cooperative information systems
+两个词都不存在
+--
+r+ trees	r+ tree
+两个词都不存在
+--
+lattice boltzmann method	lattice boltzmann methods
+两个词都不存在
+--
+rem sleep behaviors disorder	rem sleep behavior disorder
+两个词都不存在
+--
+rem sleep behaviors disorder	rem sleep behavior disorders
+两个词都不存在
+--
+occam razor	occams razor
+两个词都不存在
+--
+pronys method	pronys methods
+两个词都不存在
+--
+facebook graph search	facebook graphs search
+两个词都不存在
+--
+osi models	osi model
+两个词都不存在
+--
+google street views	google street view
+两个词都不存在
+--
+cpg island	cpg islands
+两个词都不存在
+--
+google summer of code	google summer of codes
+两个词都不存在
+--
+information retrieval specialist group	information retrieval specialist groups
+两个词都不存在
+--
+allens interval algebra	allens intervals algebra
+两个词都不存在
+--
+block size cryptography	blocks size cryptography
+两个词都不存在
+--
+block size cryptography	block sizes cryptography
+两个词都不存在
+--
+tirap gene	tirap genes
+两个词都不存在
+--
+rocchio algorithm	rocchio algorithms
+两个词都不存在
+--
+olap cube	olap cubes
+两个词都不存在
+--
+lorenz system	lorenz systems
+两个词都不存在
+--
+manet database	manets database
+两个词都不存在
+--
+manet database	manet databases
+两个词都不存在
+--
+crohn disease	crohn diseases
+两个词都不存在
+--
+web content accessibility guidelines	web content accessibility guideline
+两个词都不存在
+--
+ieee transaction on fuzzy system	ieee transactions on fuzzy system
+两个词都不存在
+--
+ieee transaction on fuzzy system	ieee transactions on fuzzy systems
+两个词都不存在
+--
+gerard salton awards	gerard salton award
+两个词都不存在
+--
+goertzel algorithm	goertzel algorithms
+两个词都不存在
+--
+lanczos algorithm	lanczos algorithms
+两个词都不存在
+--
+ieee transactions on information theory	ieee transaction on information theory
+两个词都不存在
+--
+yahoo! answer	yahoo! answers
+两个词都不存在
+--
+horns satisfiability	horn satisfiability
+两个词都不存在
+--
+ka band	ka bands
+两个词都不存在
+--
+galerkin methods	galerkin method
+两个词都不存在
+--
+jackson systems development	jackson system development
+两个词都不存在
+--
+quasi newton method	quasi newton methods
+两个词都不存在
+--
+braitenberg vehicles	braitenberg vehicle
+两个词都不存在
+--
+smart information retrieval systems	smart information retrieval system
+两个词都不存在
+--
+windows nt	window nt
+两个词都不存在
+--
+cross preference	cross preferences
+两个词都不存在
+--
+concurrent constraints logic programm	concurrent constraint logic programm
+两个词都不存在
+--
+doppler effect	doppler effects
+两个词都不存在
