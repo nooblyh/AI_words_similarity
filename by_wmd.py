@@ -2,7 +2,7 @@ from gensim.models import Word2Vec
 from nltk.corpus import stopwords
 
 threshold = 5
-model = Word2Vec.load('./modelfile/MyModel')
+model = Word2Vec.load('./modelfile/gensim-model-6zsjp5z5')
 trans_file = open("transfer_word.txt","r")
 trans_words = trans_file.read().splitlines()
 

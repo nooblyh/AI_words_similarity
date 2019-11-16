@@ -10,7 +10,7 @@ with open("./db5.json",'r') as load_f:
         words.append(key)
 
 list = {}
-model = Word2Vec.load('./modelfile/MyModel')
+model = Word2Vec.load('./modelfile/gensim-model-6zsjp5z5')
 threshold = 0.1
 
 ls = itertools.combinations(words, 2)

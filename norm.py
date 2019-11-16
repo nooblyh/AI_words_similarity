@@ -1,5 +1,4 @@
 from load_words import find_similar
-from gensim.models import Word2Vec
 from nltk.stem import WordNetLemmatizer
 import pandas as pd
 import numpy as np
@@ -19,8 +18,6 @@ if __name__ == "__main__":
         frequency[i[0]] = i[1]
 
     wnl = WordNetLemmatizer()
-    model = Word2Vec.load('./modelfile/MyModel')
-    threshold = 2.0
 
     with open("words.txt","r") as words_file:
         words = words_file.read().splitlines()

@@ -45,7 +45,7 @@ def word_count(word):
 
 # example
 if __name__ == "__main__":
-    model = Word2Vec.load('./modelfile/MyModel')
+    model = Word2Vec.load('./modelfile/gensim-model-6zsjp5z5')
     center_words=get_center_words()
     with open("./db5.json",'r') as load_f:
         load_dict = json.load(load_f)
