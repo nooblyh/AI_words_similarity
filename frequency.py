@@ -22,5 +22,4 @@ for word in words:
     for s in sentences:
         if isSublist(s,word):
             count += 1
-    print("\"" + word + "\"," + str(count))
-
+    print("\"" + " ".join(str(i) for i in word) + "\"," + str(count))
