@@ -14,12 +14,13 @@ for word in words:
     word = word.split()
     for i in word:
         true = i
-        if(d.check(word)):
+        if(d.check(true)):
             new.append(true)
         else:
             for s,_ in model.wv.most_similar(i,topn=5):
                 if d.check(s):
                     true = s
+                    print("INFO!"+ i + "改为" + true)
                     break
             new.append(true)
             if(true == i):
