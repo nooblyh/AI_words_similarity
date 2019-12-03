@@ -1,0 +1,28 @@
+import enchant
+d = enchant.Dict("en_US")
+
+from gensim.models import Word2Vec
+model = Word2Vec.load('./modelfile/gensim-model-6zsjp5z5')
+
+to = open("new_words_all_exists.txt",'w',encoding="UTF-8")
+
+
+with open("words.txt","r") as words_file:
+    words = words_file.read().splitlines()
+for word in words:
+    new = []
+    word = word.split()
+    for i in word:
+        true = i
+        if(d.check(word)):
+            new.append(true)
+        else:
+            for s,_ in model.wv.most_similar(i,topn=5):
+                if d.check(s):
+                    true = s
+                    break
+            new.append(true)
+            if(true == i):
+                print("WARNING!"+ true + "的同义词也是错词")
+    to.write(" ".join(str(i) for i in new)+"\n")
+to.close()
