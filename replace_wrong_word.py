@@ -4,7 +4,7 @@ d = enchant.Dict("en_US")
 from gensim.models import Word2Vec
 model = Word2Vec.load('./modelfile/gensim-model-6zsjp5z5')
 
-to = open("new_words_all_exists.txt",'w',encoding="UTF-8")
+to = open("new_words_except_wrong.txt",'w',encoding="UTF-8")
 
 
 with open("words.txt","r") as words_file:
