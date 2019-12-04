@@ -1,15 +1,27 @@
 from get_data import get_data
 
-def n_slices(n, list_):
-    for i in range(len(list_) + 1 - n):
-        yield list_[i:i+n]
 
-def isSublist(list_, sub_list):
-    for slice_ in n_slices(len(sub_list), list_):
-        if slice_ == sub_list:
-            return True
+def is_sublist(l,s):
+    if s==[]:
+        return True
+    elif s==l:
+        return True
+    elif len(s)>len(l):
+        return False
+    else:
+        for i in range(len(l)):
+            if l[i]==s[0]:
+                if i==len(l)-1 and len(s)>1:
+                    return False
+                else:
+                    n=1
+                    while (l[n+i]==s[n])and(n<len(s)):
+                        n+=1
+                        if n==len(s):
+                            return True
     return False
-    
+
+
 sentences = []
 text = get_data()
 for l in text:
@@ -20,6 +32,6 @@ for word in words:
     word = word.split()
     count = 0
     for s in sentences:
-        if isSublist(s,word):
+        if is_sublist(s,word):
             count += 1
     print("\"" + " ".join(str(i) for i in word) + "\"," + str(count))
