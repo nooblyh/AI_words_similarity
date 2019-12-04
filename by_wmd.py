@@ -47,7 +47,7 @@ with open("dict.txt","r") as dict_file:
                     if flag == 1:
                         continue
 
-                if Levenshtein.seqratio(t_w_origin,w) < threshold or Levenshtein.seqratio(t_w_abbr,w) < threshold:
+                if Levenshtein.seqratio(t_w_origin,w) > threshold or Levenshtein.seqratio(t_w_abbr,w) > threshold:
                     tmp.append(t_w_origin)
                     
         
@@ -64,7 +64,7 @@ with open("dict.txt","r") as dict_file:
 
                 if d_w == w:
                     continue
-                if Levenshtein.seqratio(d_w,w) < threshold:
+                if Levenshtein.seqratio(d_w,w) > threshold:
                     tmp.append(d_w)
 
             for d_w in tmp:
