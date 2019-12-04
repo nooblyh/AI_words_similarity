@@ -1,26 +1,6 @@
 from get_data import get_data
 
-
-def is_sublist(l,s):
-    if s==[]:
-        return True
-    elif s==l:
-        return True
-    elif len(s)>len(l):
-        return False
-    else:
-        for i in range(len(l)):
-            if l[i]==s[0]:
-                if i==len(l)-1 and len(s)>1:
-                    return False
-                else:
-                    n=1
-                    while (l[n+i]==s[n])and(n<len(s)):
-                        n+=1
-                        if n==len(s):
-                            return True
-    return False
-
+def is_sublist(sublst, lst): return sum([lst == sublst[i: i + len(lst)] for i in range(len(sublst) - len(lst))]) > 0
 
 sentences = []
 text = get_data()
