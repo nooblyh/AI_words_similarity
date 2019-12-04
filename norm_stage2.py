@@ -36,7 +36,7 @@ if __name__ == "__main__":
             lw2 = w2.split()
             if len(lw1) == len(lw2) and same_words(lw1,lw2,stemmer):
                 print(w1+"\t"+w2)
-                to.write(w1+"\t"+w2+"\n")
+                to.write("\"" + w1 + "\",\""+w2+"\"\n")
                 '''
                 if frequency[w1] == frequency[w2] ==0:
                     print("两个词都不存在")
