@@ -14,6 +14,7 @@ with open("dict.txt","r") as dict_file:
         words = words_file.read().splitlines()
         dict_words = dict_file.read().splitlines()
         for w in words:
+            orgin_w = w
             w = w.lower().split()
             w = [i for i in w if i not in stopwords]
             tmp = []
@@ -67,7 +68,7 @@ with open("dict.txt","r") as dict_file:
                     tmp.append(d_w)
             if(tmp):
                 for d_w in tmp:
-                    print("\""+w+"\"", end = "")
+                    print("\""+orgin_w+"\"", end = "")
                     print(",\"%s\""%(" ".join(str(i) for i in d_w)), end = "")
                 print()
             
