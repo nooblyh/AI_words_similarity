@@ -1,7 +1,8 @@
 from gensim.models import Word2Vec
 from nltk.corpus import stopwords
+import Levenshtein 
 
-threshold = 5
+threshold = 0.8
 model = Word2Vec.load('./modelfile/gensim-model-6zsjp5z5')
 trans_file = open("transfer_word.txt","r")
 trans_words = trans_file.read().splitlines()
@@ -46,7 +47,7 @@ with open("dict.txt","r") as dict_file:
                     if flag == 1:
                         continue
 
-                if model.wmdistance(t_w_origin,w) < threshold or model.wmdistance(t_w_abbr,w) < threshold:
+                if Levenshtein.seqratio(t_w_origin,w) < threshold or Levenshtein.seqratio(t_w_abbr,w) < threshold:
                     tmp.append(t_w_origin)
                     
         
@@ -63,7 +64,7 @@ with open("dict.txt","r") as dict_file:
 
                 if d_w == w:
                     continue
-                if model.wmdistance(d_w,w) < threshold:
+                if Levenshtein.seqratio(d_w,w) < threshold:
                     tmp.append(d_w)
 
             for d_w in tmp:
