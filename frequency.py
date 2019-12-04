@@ -1,14 +1,15 @@
 from get_data import get_data
-import re
 
-def is_subset(s,w):
-    if w not in s:
-        return False
-    if s.index(w) + len(w) == len(s) or s[s.index(w) + len(w)] == " ":
-        return True
-    else:
-        return False
+def n_slices(n, list_):
+    for i in range(len(list_) + 1 - n):
+        yield list_[i:i+n]
 
+def isSublist(list_, sub_list):
+    for slice_ in n_slices(len(sub_list), list_):
+        if slice_ == sub_list:
+            return True
+    return False
+    
 sentences = []
 text = get_data()
 for l in text:
@@ -16,9 +17,9 @@ for l in text:
 with open("words.txt","r") as words_file:
     words = words_file.read().splitlines()
 for word in words:
-    pattern = re.compile(r'\b'+word+r'\b')
+    word = word.split()
     count = 0
     for s in sentences:
-        if pattern.search(" ".join(str(i) for i in s))!=None:
+        if isSublist(s,word):
             count += 1
-    print("\"" + word + "\"," + str(count))
+    print("\"" + " ".join(str(i) for i in word) + "\"," + str(count))
