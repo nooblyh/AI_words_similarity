@@ -16,9 +16,9 @@ for l in text:
 with open("words.txt","r") as words_file:
     words = words_file.read().splitlines()
 for word in words:
+    pattern = re.compile(r'\b'+word+r'\b')
     count = 0
     for s in sentences:
-        pattern = re.compile(r'\b'+word+r'\b')
         if pattern.search(" ".join(str(i) for i in s))!=None:
             count += 1
     print("\"" + word + "\"," + str(count))
