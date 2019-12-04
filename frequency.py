@@ -1,4 +1,5 @@
 from get_data import get_data
+import re
 
 def is_subset(s,w):
     if w not in s:
@@ -17,6 +18,7 @@ with open("words.txt","r") as words_file:
 for word in words:
     count = 0
     for s in sentences:
-        if is_subset(" ".join(str(i) for i in s),word):
+        pattern = re.compile(r'\b'+word+r'\b')
+        if pattern.search(s):
             count += 1
     print("\"" + word + "\"," + str(count))
