@@ -19,6 +19,6 @@ for word in words:
     count = 0
     for s in sentences:
         pattern = re.compile(r'\b'+word+r'\b')
-        if pattern.search(s):
+        if pattern.search(s)!=None:
             count += 1
     print("\"" + word + "\"," + str(count))
