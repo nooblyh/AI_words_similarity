@@ -18,7 +18,7 @@ delete_word = []
 for pair in wcbh:
     pair_list_0 = pair[0].split()
     pair_list_1 = pair[1].split()
-    length = len(pair[0])
+    length = len(pair_list_0)
     i = length
     end = False
     while(i>=0 and not end):
