@@ -45,10 +45,14 @@ def word_count(word):
 
 # example
 if __name__ == "__main__":
-    model = Word2Vec.load('./modelfile/gensim-model-6zsjp5z5')
     center_words=get_center_words()
+    to = open("./words.txt","w",encoding="UTF-8")
+    for center_word in center_words:
+        to.write(center_word+"\n")
+    '''
     with open("./db5.json",'r') as load_f:
         load_dict = json.load(load_f)
         for center_word in load_dict:
             words = get_relative_words(center_word)
             find_similar(words,model)
+    '''
