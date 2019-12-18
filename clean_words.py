@@ -11,12 +11,17 @@ non_words=[]
 with open("words_v1.txt","r") as words_file:
     words = words_file.read().splitlines()
     for word in words:
+        accept = True
         word_list = word.split()
         for w in word_list:
             if w not in model:
-                non_words.append(w)
+                non_words.append(word)
+                accept = False
+                break
             else:
-                new_words.append(w)
+                continue
+        if accept:
+            new_words.append(word)
                     
 print(len(non_words))
 
