@@ -30,11 +30,11 @@ for pair in wcbh:
             if frequency[a] == frequency[b] == 0:
                 continue
             elif frequency[a] > frequency[b]:
-                delete_word.append(pair_list_1)
+                delete_word.append(pair[1])
                 end = True
                 break
             else:
-                delete_word.append(pair_list_0)
+                delete_word.append(pair[0])
                 end = True
                 break
         i-=1
@@ -45,10 +45,12 @@ for pair in wcbh:
                 continue
             else:
                 if model.wv.vocab[pair_list_0[length-w]].count > model.wv.vocab[pair_list_1[length-w]].count:
-                    delete_word.append(pair_list_1)
+                    delete_word.append(pair[1])
+                    end = True
                     break
                 else:
-                    delete_word.append(pair_list_0)
+                    delete_word.append(pair[0])
+                    end = True
                     break
 
 
@@ -56,6 +58,15 @@ for pair in wcbh:
         print("搞不定这对",pair[0],pair[1])
         count+=1
 
-print(delete_word)
+with open("words.txt","r") as words_file:
+    words = words_file.read().splitlines()
+for i in delete_word:
+    if i in words:
+        words.remove(i)
+to = open("words_v1.txt",'w',encoding="UTF-8")
+for w in words:
+    to.write(w+"\n")
+to.close()
+#print(delete_word)
 print(count)
 
