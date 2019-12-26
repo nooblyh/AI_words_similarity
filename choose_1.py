@@ -71,7 +71,7 @@ for pair in pairs:
         print("搞不定这对",pair[0],pair[1])
         count+=1
 
-with open("words.txt","r") as words_file:
+with open("words_v2.txt","r") as words_file:
     words = words_file.read().splitlines()
 for i in delete_word:
     if i in words:
