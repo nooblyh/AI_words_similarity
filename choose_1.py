@@ -22,16 +22,44 @@ for pair in pairs:
     pair_list_1 = pair[1].split()
     length_0 = len(pair_list_0)
     length_1 = len(pair_list_1)
-    if frequency[pair[0]] > frequency[pair[1]]:
+    if frequency[pair[0]] >= frequency[pair[1]] and frequency[pair[0]] != 0:
         delete_word.append(pair[1])
     elif frequency[pair[0]] < frequency[pair[1]]:
         delete_word.append(pair[0])
-    elif frequency[pair[0]] == frequency[pair[1]] and length_0 == length_1:
+    elif frequency[pair[0]] == frequency[pair[1]] == 0 and length_0 == length_1:
         for w in range(1,length_0):
             if not pair_list_0[length_0-w] in model or not pair_list_1[length_0-w] in model:
                 continue
             else:
                 if model.wv.vocab[pair_list_0[length_0-w]].count > model.wv.vocab[pair_list_1[length_0-w]].count:
+                    delete_word.append(pair[1])
+                    end = True
+                    break
+                else:
+                    delete_word.append(pair[0])
+                    end = True
+                    break
+    elif frequency[pair[0]] == frequency[pair[1]] == 0 and model.wv.vocab[pair_list_0[-1]].count == model.wv.vocab[pair_list_1[-1]].count:
+        length = min(length_0,length_1)
+        for w in range(1,length):
+            if not pair_list_0[length-w] in model or not pair_list_1[length-w] in model:
+                continue
+            else:
+                if model.wv.vocab[pair_list_0[length-w]].count > model.wv.vocab[pair_list_1[length-w]].count:
+                    delete_word.append(pair[1])
+                    end = True
+                    break
+                else:
+                    delete_word.append(pair[0])
+                    end = True
+                    break
+    elif frequency[pair[0]] == frequency[pair[1]] == 0 and model.wv.vocab[pair_list_0[0]].count == model.wv.vocab[pair_list_1[0]].count:
+        length = min(length_0,length_1)
+        for w in range(0,length):
+            if not pair_list_0[w] in model or not pair_list_1[w] in model:
+                continue
+            else:
+                if model.wv.vocab[pair_list_0[w]].count > model.wv.vocab[pair_list_1[w]].count:
                     delete_word.append(pair[1])
                     end = True
                     break
