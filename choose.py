@@ -10,12 +10,14 @@ frequency = {}
 for i in f:
     frequency[i[0]] = i[1]
 
-wcbh = pd.read_csv('words_choose_by_hand.csv')
-wcbh = np.array(wcbh)
+with open('01_result','r') as pair_file:
+    pairs = pair_file.read().splitlines()
+
 count=0
 delete_word = []
 
-for pair in wcbh:
+for pair in pairs:
+    pair = pair.split(",")
     pair_list_0 = pair[0].split()
     pair_list_1 = pair[1].split()
     length = len(pair_list_0)
@@ -46,10 +48,18 @@ for pair in wcbh:
             else:
                 if model.wv.vocab[pair_list_0[length-w]].count > model.wv.vocab[pair_list_1[length-w]].count:
                     delete_word.append(pair[1])
+                    '''
+                    if pair[0] in delete_word:
+                        delete_word.remove(pair[0]) # 保证有一个单词可以表示该语义
+                    '''
                     end = True
                     break
                 else:
                     delete_word.append(pair[0])
+                    '''
+                    if pair[1] in delete_word:
+                        delete_word.remove(pair[1])
+                    '''
                     end = True
                     break
 
@@ -63,10 +73,9 @@ with open("words.txt","r") as words_file:
 for i in delete_word:
     if i in words:
         words.remove(i)
-to = open("words_v1.txt",'w',encoding="UTF-8")
+to = open("words_final.txt",'w',encoding="UTF-8")
 for w in words:
     to.write(w+"\n")
 to.close()
 #print(delete_word)
 print(count)
-
