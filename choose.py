@@ -10,7 +10,7 @@ frequency = {}
 for i in f:
     frequency[i[0]] = i[1]
 
-with open('01_result','r') as pair_file:
+with open('XXX','r') as pair_file:
     pairs = pair_file.read().splitlines()
 
 count=0
@@ -48,18 +48,10 @@ for pair in pairs:
             else:
                 if model.wv.vocab[pair_list_0[length-w]].count > model.wv.vocab[pair_list_1[length-w]].count:
                     delete_word.append(pair[1])
-                    '''
-                    if pair[0] in delete_word:
-                        delete_word.remove(pair[0]) # 保证有一个单词可以表示该语义
-                    '''
                     end = True
                     break
                 else:
                     delete_word.append(pair[0])
-                    '''
-                    if pair[1] in delete_word:
-                        delete_word.remove(pair[1])
-                    '''
                     end = True
                     break
 
