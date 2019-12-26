@@ -479,7 +479,7 @@ acetylene
 transmission line
 computer clusters
 walksat
-component analysi
+component analysis
 learning disorders
 of system
 dual graph
@@ -677,7 +677,7 @@ dogma
 fvm
 invertebrates
 attack patterns
-symbolic analysi
+symbolic analysis
 observations and measurements
 intelligence quotient
 cr
@@ -792,7 +792,7 @@ model reduction
 single sign on
 opensource maturity model
 radial function
-higher border programm
+higher border programming
 leprosy
 gmsk
 automated essay scorm
@@ -824,7 +824,7 @@ metaphysis
 disciple
 cellular structures
 stationary
-systemc analysi
+systemc analysis
 wisdom the crowd
 ef tu
 service innovation
@@ -1167,7 +1167,7 @@ americas conference on system
 endothelial factor
 rapid prototyping
 cosmetic
-semi programm
+semi programming
 nlu
 malondialdehyde
 of machine learning research
@@ -1230,11 +1230,11 @@ subcutaneous fat
 amino acid sequence
 hierarchical hidden model
 zc
-care plann
+care planning
 synteny
 ino
 digital copyright act
-asic programm
+asic programming
 vss
 hsi
 human visual model
@@ -1726,7 +1726,7 @@ mental health
 the of life
 ssr
 polycystic disease
-fractal analysi
+fractal analysis
 rapid development
 loc
 particle filter
@@ -2016,7 +2016,7 @@ international on wearable computer
 telecentre
 rfp
 upper ontology
-international on logic programm
+international on logic programming
 ite
 bespoke
 pediatric
@@ -2025,7 +2025,7 @@ multicast
 ttp
 high school
 constant alarm rate
-comparative analysi
+comparative analysis
 wum
 elementary particles
 universal generalization
@@ -2306,7 +2306,7 @@ fibroblast growth factory
 hter
 parenteral nutrition
 component software engineer
-function programm
+function programming
 optometry
 data and knowledge discovery
 principal component
@@ -2484,7 +2484,7 @@ rpi
 endoplasmic reticulum
 icub
 sequential quadratic programming
-real time plann
+real time planning
 linear complementarity problem
 dominating set
 epso
@@ -2576,7 +2576,7 @@ temporal annotation
 brainstem response
 gdi
 jpl
-neutron analysi
+neutron analysis
 grc
 medical
 orb
@@ -2607,7 +2607,7 @@ abnormal red cell
 truncation error
 corneal
 crystal oscillator
-driven programm
+driven programming
 integrated delivery systems
 raster scan
 adaptive systems
@@ -3109,7 +3109,7 @@ central pressure
 capacity building
 part of speech tagg
 apache park
-order programm
+order programming
 hcc
 lévy light
 direct acces
@@ -3157,7 +3157,7 @@ spatial pattern
 flower
 decompression artifact
 nervous structure
-time path plann
+time path planning
 agents and multi agent system
 speech enhancement
 populus
@@ -3254,7 +3254,7 @@ guidance system
 sbl
 shape context
 non repetition
-visibility analysi
+visibility analysis
 health information national survey
 volition
 seismic analysis
@@ -3416,7 +3416,7 @@ network governance
 underwater computer vision
 fpga
 hal
-exploratory analysi
+exploratory analysis
 muscular atrophy
 collaborative virtual environmental
 learning theory
@@ -3502,7 +3502,7 @@ unmanned vehicle
 liver disease
 vna
 hgh
-mode and effects analysi
+mode and effects analysis
 career choice
 copy detection
 hamster
@@ -3531,7 +3531,7 @@ convolutional
 low back paint
 wpans
 pseudorandom
-inductive programm
+inductive programming
 recall
 remotely operated vehicle
 runtime system
@@ -3650,7 +3650,7 @@ coronary bypass surgery
 hidden model
 texture mapping
 gsi
-document analysi
+document analysis
 congestive failure
 hypospadias
 visually person
@@ -3739,7 +3739,7 @@ editorial
 co expression network
 attack mode
 irp
-multiple analysi
+multiple analysis
 kernel estimation
 scientific publications
 population mode
@@ -3793,7 +3793,7 @@ bgp
 packet inspection
 context
 histogram
-higher programm
+higher programming
 new york time
 anaplastic carcinoma
 formation ethic
@@ -3899,7 +3899,7 @@ relay channel
 input
 social median
 oxidized density lipoprotein
-concept analysi
+concept analysis
 ipi
 drn
 conceptual schema
@@ -3916,7 +3916,7 @@ information success model
 neuroevolution of augmenting topologie
 itsm
 syphilis
-dependent component analysi
+dependent component analysis
 partial squares regression
 extracorporeal membrane oxygenation
 sdae
@@ -4067,7 +4067,7 @@ frbss
 mycobacterium infection
 map
 intuitionistic logic
-bispectrum analysi
+bispectrum analysis
 standard cell
 coverage data
 calcium signaling
@@ -4249,7 +4249,7 @@ fpu
 private retrieval
 point position
 la
-abductive programm
+abductive programming
 intranet
 monoxide poison
 simultaneous localization mapp
@@ -4294,7 +4294,7 @@ semiotic
 naa
 opm
 based social simulation
-canonical analysi
+canonical analysis
 fibroblast growth factor
 school
 deficiency anemia
@@ -4342,7 +4342,7 @@ tan
 case diagram
 behavior disorder
 rc
-computational auditory analysi
+computational auditory analysis
 tuple dspace
 hex
 choice behavior
@@ -4379,7 +4379,7 @@ chest
 building formation model
 empirical research
 symbolic programming
-correlation analysi
+correlation analysis
 personalized marketing
 synrm
 all filter
@@ -4470,7 +4470,7 @@ bco
 management language
 first order
 rsv
-confirmatory analysi
+confirmatory analysis
 rfnn
 kbms
 proper
@@ -4770,7 +4770,7 @@ site script
 ontologie
 gateway protocol
 common pattern
-successive programm
+successive programming
 radio resource management
 relaxation oscillator
 mse
@@ -4808,7 +4808,7 @@ magnetic resonance spectroscopic imaging
 solap cube
 hospital information system
 bidirectional memory
-document playout analysi
+document playout analysis
 symbolic execution
 recurrent otitis median
 rs fmri
@@ -4975,7 +4975,7 @@ ist
 semantic xquery
 information coefficient
 ground state
-unstructured analysi
+unstructured analysis
 al
 hardware in loop simulation
 type inference
@@ -5003,7 +5003,7 @@ prisoners dilemma
 uk
 ionic liquid
 domain data min
-determination analysi
+determination analysis
 neuron disease
 wsans
 lecture notes
@@ -5062,7 +5062,7 @@ intervertebral disc degeneration
 rbmt
 weakly
 dorsolateral prefrontal cortex
-grey analysi
+grey analysis
 health statistics
 manifold
 rett syndrome
@@ -5265,14 +5265,13 @@ oral glucose test
 feature extraction
 monotonic logic
 neuro fuzzy
-nsgaii
 intravenous catheter
 pmr
 mart environment
 complex wavelet transform
 information computation
 artificial cells
-confirmatory actor analysi
+confirmatory actor analysis
 france
 prenatal care
 international conference machine learn
@@ -5316,7 +5315,7 @@ legacy codec
 simple knowledge organizational system
 extracellular matrix
 starcraft war
-dynamic programm
+dynamic programming
 quasi
 logistic map
 anterior cingulate gyrus
@@ -5329,10 +5328,9 @@ sml
 woa
 indo
 oriented pars
-long short memory
 critical band
 fossil
-failure mode effects analysi
+failure mode effects analysis
 gd
 chemical similarity
 codec rate
@@ -5501,7 +5499,7 @@ dsl
 fdr
 method engineering
 willow
-healthy plann
+healthy planning
 analysis and critical control point
 anfis
 universal plug and play
@@ -6173,7 +6171,7 @@ ehealth outcome
 plant response
 editorial policies
 ub
-partial plann
+partial planning
 sbir
 three logic
 twain
@@ -6218,7 +6216,7 @@ linear inequality
 string match
 postgis
 barrier function
-fault analysi
+fault analysis
 full video
 based engineer
 tcam
@@ -6394,7 +6392,7 @@ urethra
 bloom filter
 aptamer
 storage mode
-event drive programm
+event drive programming
 toxicogenomics
 pico
 and specificity
@@ -6773,7 +6771,7 @@ palo
 matrix presentation
 computerized physician order system
 event log
-enterprise resources plann
+enterprise resources planning
 decision making
 paint management
 lubricant
@@ -6887,7 +6885,7 @@ linear predictive coding
 gf
 time data
 medical examination
-mhealth plann
+mhealth planning
 neuron structure
 picu
 esa
@@ -6913,7 +6911,7 @@ computer data storage
 sbse
 programming by demonstration
 gas chromatography mass spectrometry
-international conference on programm
+international conference on programming
 megestrol acetate
 bbob
 digital
@@ -6973,7 +6971,7 @@ matrix inequality
 pj
 pdb
 mbt
-work analysi
+work analysis
 memristor
 quality of health care
 marriage problem
@@ -7067,7 +7065,7 @@ neurotechnology
 timer and motion study
 mpnn
 cp abe
-gene programm
+gene programming
 enterprise architecture framework
 capm
 fast wavelet transform
@@ -7678,7 +7676,7 @@ oral mhealth
 pou
 search problem
 event calculus
-failure and effects analysi
+failure and effects analysis
 rdf schema
 broadcast encryption
 access time
@@ -7731,7 +7729,7 @@ genetic and computation conference
 am fm
 wine
 stm
-infinite programm
+infinite programming
 dioxide
 user interface
 itl
@@ -7816,7 +7814,7 @@ odor
 computational cybernetics
 vertebral
 analysis algorithm
-national center geographic information and analysi
+national center geographic information and analysis
 gcs
 potential energy surface
 idt
@@ -7887,7 +7885,7 @@ development effort estimation
 salvia miltiorrhiza
 boundary element method
 basal forebrain
-advance plann
+advance planning
 vagueness
 hevc
 pre
@@ -7980,7 +7978,7 @@ sage data
 master of administration
 neuromuscular stimulation
 architecture management
-multilinear component analysi
+multilinear component analysis
 pseudomonas
 kidney disease
 dt
@@ -8024,7 +8022,7 @@ state charge
 knowledge compilation
 tbm
 handy hygiene
-concurrent logic programm
+concurrent logic programming
 random
 conjugate gradient method
 parti based model
@@ -8070,7 +8068,7 @@ oam
 skating
 information letter
 medical home
-concurrent constraint programm
+concurrent constraint programming
 source asynchronous
 leonard uhr
 attention hyperactivity disorder
@@ -8128,7 +8126,7 @@ discipline
 arthralgia
 video synopsis
 gem
-event programm
+event programming
 mailing address
 semantic similarity
 serine
@@ -8210,7 +8208,7 @@ tropism
 programming model
 lsr
 distributed shared memory
-layout analysi
+layout analysis
 exudate
 renaissance
 peroxisome proliferator activated receptor
@@ -8291,7 +8289,7 @@ hcrf
 battery management system
 respectively
 article swarm optimization
-business continuity plann
+business continuity planning
 principle of east action
 optic
 myo armband
@@ -8357,7 +8355,7 @@ petroleum
 neural cryptography
 nested loop join
 of th
-real path plann
+real path planning
 fecal occult blood test
 dmd
 idp
@@ -8455,7 +8453,7 @@ state search
 dtf
 arima
 fdoa
-shape analysi
+shape analysis
 of business administration
 qnm
 wbcd
@@ -8497,7 +8495,7 @@ statistical mechanical
 plasmacytoid cell
 maternal healthy service
 trypsin
-latent analysi
+latent analysis
 of automated reason
 developmental disabilities
 integrated enterprise mode
@@ -8541,7 +8539,7 @@ heme park
 mro
 gene expression
 software development
-disasters plann
+disasters planning
 embedded software
 sequoia
 mythology
@@ -8570,7 +8568,7 @@ fde
 wheat map
 objective optimization
 electromagnetic field
-auditory scene analysi
+auditory scene analysis
 information acces
 mhealth information exchange
 mild mental retardation
@@ -8645,7 +8643,7 @@ lossless compression
 ripper
 mimo ofdm
 emp
-international conference logic programm
+international conference logic programming
 massive online course
 nidss
 speech recognition
@@ -8667,7 +8665,7 @@ wai
 information systems security professional
 restriction mapp
 flux qubit
-imagej analysi
+imagej analysis
 mvl
 medical privacy
 tam
@@ -8962,7 +8960,7 @@ pbil
 déjà vu
 hybrid automatic request
 hv
-second order programm
+second order programming
 insecticides
 tacrolimus
 remote sensing applications
@@ -9146,7 +9144,7 @@ passing interface
 rain fade
 fda
 legal expert systemc
-canonical decorrelation analysi
+canonical decorrelation analysis
 data mart
 noisy coding theorem
 dynamic link matching
@@ -9266,7 +9264,7 @@ altitude
 ddt
 wdp
 machine vision application
-actor analysi
+actor analysis
 magnetic imag
 bp ann
 mcp
@@ -9338,7 +9336,7 @@ coupled network
 sql
 filter array
 information professional
-spatio analysi
+spatio analysis
 template
 universal plug and splay
 management
@@ -9357,7 +9355,7 @@ layer chromatography
 topological insulator
 btt
 mpm
-conference on logic programm
+conference on logic programming
 vector format
 atlas
 decision theory
@@ -9372,7 +9370,7 @@ tou
 transcription factor
 composite design
 protein phosphatase
-agent programm
+agent programming
 frequency analysis
 antimicrobial peptides
 mode based test
@@ -9542,7 +9540,7 @@ mach
 plaster
 boost
 structural induction
-ends analysi
+ends analysis
 fuzzy thematic
 business software
 by partial match
@@ -9681,7 +9679,7 @@ material handling
 information geometry
 range
 speech processing
-national center for information and analysi
+national center for information and analysis
 standard model
 electromagnetic
 network warfare
@@ -9717,7 +9715,7 @@ wcsp
 bch codec
 simulink
 software requirements specification
-statistica shape analysi
+statistica shape analysis
 real time search
 defect classification
 recursive
@@ -10420,7 +10418,7 @@ variable structure systems
 geriatric
 cath
 issm
-probabilistic semantic analysi
+probabilistic semantic analysis
 software revolution
 interaction information
 redirection of arrival
@@ -10740,7 +10738,6 @@ sparse
 paas
 quantum circuit
 web traffic
-recurrent network
 composite patterns
 visual asic
 mapk
@@ -10773,7 +10770,7 @@ cytomegalovirus infection
 glyphosate
 epithelial cells
 mhealth information system
-recurrence analysi
+recurrence analysis
 transforming growth factory
 kinetic monte carlo
 anatomy
@@ -10925,7 +10922,7 @@ cognitive computing
 iot
 no free theorem
 dcc
-relational analysi
+relational analysis
 peak
 gaussian
 healthy outcome
@@ -11138,7 +11135,7 @@ hyperion
 open innovation
 okapi
 brain atlas
-scenario plann
+scenario planning
 mlms
 middle least respiratory syndrome
 interlaced video
@@ -11169,7 +11166,7 @@ tenth problem
 err
 large deformation diffeomorphic metric mapping
 vhr
-flink analysi
+flink analysis
 cerebral ventricle
 interferon factor
 lsd
@@ -11447,7 +11444,7 @@ global information systemc
 parallel text
 exploration
 patients
-agents oriented programm
+agents oriented programming
 iif
 ranking retrieval
 glomerular rate
@@ -11608,7 +11605,7 @@ light microscopy
 change and notification
 data generation
 ddos
-computational scene analysi
+computational scene analysis
 collision induced dissociation
 fwt
 parameterized complexity
@@ -11617,7 +11614,7 @@ intelligence and law
 bac
 bfo
 elia
-second cone programm
+second cone programming
 digital image
 secure communication
 ehealth information national trends survey
@@ -11758,7 +11755,7 @@ ceo
 medlar
 waste site
 tone mapping
-ehealth plann
+ehealth planning
 fuzzy set
 tri
 fagus
@@ -11793,7 +11790,7 @@ sc fde
 cognitive work analysis
 first shooter
 intrusion tolerance
-statistical analysi
+statistical analysis
 telecommuting
 backtracking
 tumor necrosis actor receptor
@@ -11879,7 +11876,7 @@ software proces
 beagle
 maturity model
 brood war
-factory analysi
+factory analysis
 drug development
 dsrna
 molecular weight
@@ -12338,7 +12335,7 @@ dome
 directed acyclic graph
 immunoglobulin domains
 low pain
-exploratory factory analysi
+exploratory factory analysis
 ebird
 arl
 non alcoholic fatty disease
@@ -12422,7 +12419,7 @@ centric warfare
 activated protein kinase
 rhis
 limbic system
-group method of handl
+group method of handling
 object request broker
 protein engineering
 reference design
@@ -12475,7 +12472,7 @@ ni
 hdm
 connectionist expert system
 torsades de pointes
-sequential programm
+sequential programming
 neurofilament
 anti alias
 idd
@@ -12641,7 +12638,7 @@ infliximab
 paac
 unrest
 puberty
-structure programm
+structure programming
 postoperative and vomit
 eii
 kalman filter
@@ -12764,7 +12761,7 @@ endothelial progenitor cells
 atp
 upper respiratory tract
 pancreatitis
-tree analysi
+tree analysis
 malaria vaccine
 sink
 estimation theory
@@ -13423,7 +13420,7 @@ sld solution
 squad
 rmi
 rich presentation language
-detrended analysi
+detrended analysis
 rrbf
 markov decision process
 cochlear implant
@@ -13479,8 +13476,8 @@ minimum tree
 sensing application
 face detection
 membrane depolarization
-set programm
-center for geographic information and analysi
+set programming
+center for geographic information and analysis
 armed conflict
 respiration
 sequent calculus
@@ -13556,10 +13553,10 @@ of strategic information system
 protein tyrosine phosphatase
 oyster
 replacement algorithm
-static analysi
+static analysis
 abstract type
 surveillance
-semantic analysi
+semantic analysis
 ecological indicator
 planarian
 effectiveness research
@@ -13579,7 +13576,7 @@ chain triglyceride
 clp
 propofol
 teratoma
-geodesic analysi
+geodesic analysis
 stress management
 carpi
 context free grammar
@@ -13691,7 +13688,7 @@ ohms law
 ast
 nfc
 document system
-multiplet discriminant analysi
+multiplet discriminant analysis
 count data
 general linear mode
 how
@@ -13893,7 +13890,7 @@ pmml
 modbus
 trypanosomiasis
 anomaly detection
-family plann
+family planning
 textual case reason
 medical system
 intelligence engine
@@ -13923,7 +13920,7 @@ knock out
 ptp
 pathway analysis
 ue
-means analysi
+means analysis
 ex
 network game
 facility problem
@@ -14010,7 +14007,7 @@ adaptive user interfaces
 image warping
 symbolic intelligence
 public surveillance
-materia handl
+materia handling
 kml
 based grammar
 polyvinyl alcohol
@@ -14021,7 +14018,7 @@ corporation
 boundary track
 hole body irradiation
 anti patterns
-flow analysi
+flow analysis
 property right
 neural pathways
 bioreactor
@@ -14099,7 +14096,7 @@ simple knowledge organization system
 klebsiella pneumoniae
 world ehealth organization
 calcification
-constraints programm
+constraints programming
 kuramoto model
 alife support
 copy number
@@ -14210,7 +14207,7 @@ of chao
 document format
 granule cells
 material hand
-nonlinear programm
+nonlinear programming
 fiberglass
 business logic
 thumbnail
@@ -14364,7 +14361,7 @@ ota
 cybernetics
 generalised transform
 assisted living
-order plann
+order planning
 emd
 view
 cpr
@@ -14402,7 +14399,7 @@ quantified self
 intraperitoneal chemotherapy
 psychotherapy
 nga
-enterprise plann
+enterprise planning
 health promotion
 medicinal chemistry
 hybrid network
@@ -14526,7 +14523,7 @@ allocation inference
 spm
 functional electrical stimulation
 bispectrum
-kernel component analysi
+kernel component analysis
 extreme theory
 change vector
 social communication disorder
@@ -14646,7 +14643,7 @@ genera imag
 frequency scal
 parry
 disk dspace
-robust principal analysi
+robust principal analysis
 myocardium
 dfm
 throughput
@@ -14719,7 +14716,7 @@ vanadium
 data structure
 menarche
 gate electric
-interrupted time analysi
+interrupted time analysis
 start
 sugar cane
 receptor for advanced endproduct
@@ -14808,7 +14805,7 @@ articulators
 wsmo
 optimization mechanism
 software quality
-national center for geographic information analysi
+national center for geographic information analysis
 polar surface area
 cache coherence
 benzoate
@@ -15044,7 +15041,6 @@ rosettanet
 hoc
 mushroom bodies
 membrane microdomains
-interrupted timer series analysi
 vertical
 daubechies wavelet
 reference book
@@ -15056,7 +15052,7 @@ negative bacteria
 linear cod
 behavior model
 rbf nn
-element analysi
+element analysis
 tlr
 system requirements
 fastest
@@ -15202,7 +15198,7 @@ cmi
 aann
 result set
 var
-partial border plann
+partial border planning
 network file system
 curse dimensionality
 language understand
@@ -15241,7 +15237,7 @@ to rank
 neuro structure
 gasoline
 stimulating hormone
-oriented programm
+oriented programming
 fou
 cell types
 icp ae
@@ -15321,7 +15317,7 @@ extensible authentication protocol
 forest
 lgbp
 positive selection
-visibility graph analysi
+visibility graph analysis
 ckd
 hrr
 pulmonary infection
@@ -15360,7 +15356,7 @@ ira
 rna interference
 fetal monitoring
 dna fingerprinting
-stress analysi
+stress analysis
 schistosomiasis mansoni
 rvm
 sd oct
@@ -15445,7 +15441,7 @@ lego mindstorms
 molecular modeling
 spring framework
 snss
-health plann
+health planning
 fwm
 ieee on evolutionary computation
 imperialist competitive algorithm
@@ -15491,7 +15487,7 @@ rnai
 aurora
 aneuploidy
 preferences standard
-multi programm
+multi programming
 structural holes
 decision support system
 ot
@@ -15561,19 +15557,19 @@ fair queuing
 scientific workflow system
 cardiac conduction
 attenuation efficient
-partial order plann
+partial order planning
 co bisimulation
 zymosan
 socp
 convolutional deep network
-dataflow programm
+dataflow programming
 cnv
 bsn
 ess
 hand board
 rehabilitation centers
 deg
-cognitive analysi
+cognitive analysis
 controlled language
 am
 large eddy simulation
@@ -15776,7 +15772,6 @@ endocrine system
 image based remodeling and render
 epigenomic
 random test
-interrupted series analysi
 deli
 dsd
 healthy behavior
@@ -15824,7 +15819,7 @@ transaction data
 mnist databases
 mutual exclusion
 spam
-real time xpath plann
+real time xpath planning
 internetworking
 information card
 compositional data
@@ -15834,7 +15829,7 @@ pit
 everquest
 upload
 fvr
-multilinear principal analysi
+multilinear principal analysis
 leucine repeat
 uterine contractions
 feces
@@ -15974,7 +15969,7 @@ ergodic theory
 spiking neural network
 auton configuration
 fisheye
-business plann
+business planning
 physical activity
 acid substitution
 bag words model
@@ -15990,7 +15985,7 @@ mating
 most bit
 frau
 dinoprost tromethamine
-city plann
+city planning
 hccr
 irreducibility
 fluorescence imaging
@@ -16040,7 +16035,7 @@ gru
 fuzzy theory
 google summer of codes
 myocarditis
-kernel principal analysi
+kernel principal analysis
 qc
 dee
 web of trus
@@ -16300,7 +16295,7 @@ wl
 fibromyalgia
 psf
 ifn
-plann
+planning
 active model
 relative
 bnf
@@ -16554,7 +16549,7 @@ lem
 autonomic computing
 finite stat machine
 pc
-quantification analysi
+quantification analysis
 ack
 binary codes
 forensic anthropology
@@ -16656,7 +16651,7 @@ crystal microbalance
 number
 modem
 pbm
-blink analysi
+blink analysis
 spike train
 salt
 etl
@@ -16674,7 +16669,7 @@ java hcard
 object detection
 anesthetic
 alphabet
-time series analysi
+time series analysis
 of health care
 koch snowflake
 gas chromatography spectrometry
@@ -16769,7 +16764,7 @@ musculoskeletal system
 multi factor authentication
 osteoporosis
 ehrlichiosis
-probabilistic latent analysi
+probabilistic latent analysis
 inferior colliculus
 ce
 robust principal component analysis
@@ -16785,7 +16780,7 @@ property testing
 dolutegravir
 secretory vesicles
 breast examination
-abductive logic programm
+abductive logic programming
 array dbms
 drug combinations
 rule based systemc
@@ -16948,7 +16943,7 @@ lymph node biopsy
 digital management
 de novo protein structure prediction
 os
-differential analysi
+differential analysis
 semi
 random optimization
 caricature
@@ -17035,7 +17030,7 @@ netflix prize
 business continuity plan
 dextran
 alternating temporal logic
-balance analysi
+balance analysis
 statistical distribution
 eeg
 medical imagej comput
@@ -17175,14 +17170,14 @@ human tissue
 demography
 midwifery
 radiocarbon dat
-aspect programm
+aspect programming
 pittsburgh sleep quality index
 horn satisfiability
 software verification
 applications artificial intelligence
 eye the beholder
 client computing
-flux analysi
+flux analysis
 stable problem
 terrain rendering
 bone metastases
@@ -17272,7 +17267,7 @@ dpll algorithms
 pspace
 display advertising
 red
-declarative programm
+declarative programming
 usability inspection
 mh
 shear stress
@@ -17281,7 +17276,7 @@ artoolkit
 menstrual cycle
 polygon triangulation
 court
-principal analysi
+principal analysis
 ipad
 remote sens
 aided architectural design
@@ -17298,7 +17293,7 @@ eam
 social median min
 international symposium on wearable computer
 formation resource
-group of data handl
+group of data handling
 smoothed analysis
 evoked potentials
 pathfinding
@@ -17433,7 +17428,7 @@ dither
 sex hormone globulin
 point arithmetic
 particle accelerators
-functional analysi
+functional analysis
 latent dirichlet allocation
 the filter
 population forecast
@@ -17476,7 +17471,7 @@ to peer lend
 call to arms
 amoeba
 relational data min
-continuity plann
+continuity planning
 execution patterns
 never lending language learn
 abca
@@ -17516,7 +17511,7 @@ molecular analysis
 data platform
 spatial support system
 cocomo
-aspectj oriented programm
+aspectj oriented programming
 spin mode
 neural stemi cell
 iron deficiency
@@ -17579,14 +17574,14 @@ cimt
 left hypertrophy
 tenth map
 of cartography
-basic programm
+basic programming
 mealy machines
 building code
 regular grammar
 microsoft research
 bismuth
 causal graph
-inductive logic programm
+inductive logic programming
 levothyroxine
 video broadcast
 pseudo acid composition
@@ -17614,7 +17609,7 @@ lcd
 poliomyelitis
 multiple encryption
 antipsychotic agent
-method of data handl
+method of data handling
 individual
 sg
 to know
@@ -17713,7 +17708,7 @@ primary motor cortex
 building information modeling
 dn
 mosi
-formal analysi
+formal analysis
 percentile
 bit plane
 foobar
@@ -17727,7 +17722,7 @@ address espace
 radial function network
 dpll
 error message
-linear analysi
+linear analysis
 rem
 desire
 aspect oriented software development
@@ -17746,7 +17741,7 @@ hypogonadism
 french
 complex dynamic
 ibl
-unstructured programm
+unstructured programming
 peripheral vascular disease
 gmcsf
 peroxisome proliferator receptor
@@ -18003,7 +17998,7 @@ mvn
 hematopoietic stem cell
 wais circumference
 expert
-topological analysi
+topological analysis
 histogram matching
 automatic gain control
 ieee transactions pattern analysis and machine intelligence
@@ -18084,7 +18079,7 @@ spl
 information mode
 risk management
 flocking behavior
-national for geographic information and analysi
+national for geographic information and analysis
 ldap
 test development
 extensibility
@@ -18104,7 +18099,7 @@ possibility theory
 security question
 fmea
 stat transition
-qualitative analysi
+qualitative analysis
 enterocytes
 chronic kidney disease
 tg
@@ -18314,7 +18309,7 @@ blood nitrogen
 open common sense
 won
 family tree
-envelopment analysi
+envelopment analysis
 msx
 syntax errors
 variable order model
@@ -18368,7 +18363,7 @@ logical data model
 semantic query
 sensor
 serotonin
-explicit analysi
+explicit analysis
 independent liv
 flow network
 base sequence
@@ -18388,7 +18383,7 @@ lactose
 hdf
 rheumatic fever
 database server
-resource plann
+resource planning
 information access
 aqm
 macular generation
@@ -18517,7 +18512,7 @@ cone computed tomography
 simon
 subscriber identity module
 hemolymph
-exploratory actor analysi
+exploratory actor analysis
 geomatics
 formation seek
 sphingolipid
@@ -18586,7 +18581,7 @@ general video game playing
 consistency mode
 mlm
 lgm
-spect oriented programm
+spect oriented programming
 sensitive hash
 nerve stimulation
 free form formation
@@ -18599,7 +18594,7 @@ head related transfer function
 paranoia
 bark scale
 attention
-aspect oriented programm
+aspect oriented programming
 high availability cluster
 ray computed tomography
 genetic markers
@@ -18626,7 +18621,7 @@ quasi method
 mart city
 bottom up pars
 biological computation
-excitation analysi
+excitation analysis
 respiratory sinus arrhythmia
 fluorometry
 teq
@@ -18719,7 +18714,7 @@ problems based learn
 realization probability
 scenario analysis
 mental states
-data analysi
+data analysis
 mason
 prolog
 organization behavior
@@ -18805,7 +18800,7 @@ content based retrieval
 eclipse
 pgrp
 research development
-answers set programm
+answers set programming
 development robotic
 germ cell
 mode of computation
@@ -18994,7 +18989,7 @@ ribosomal rna
 myocardial imag
 cross covariance
 fruit
-stochastic programm
+stochastic programming
 map algebra
 lambda calculus
 complementary and alternative medicine
@@ -19101,7 +19096,7 @@ freebase
 brazil
 general solver
 subversion
-motion plann
+motion planning
 flame retardants
 functional specification
 and machine
@@ -19165,7 +19160,7 @@ exodus
 co occurrence matrix
 toolchain
 crystal structure
-concurrent constraints logic programm
+concurrent constraints logic programming
 patient care
 prostatectomy
 video development
@@ -19437,9 +19432,9 @@ breast
 asnn
 bmc bioinformatics
 embryo
-graph analysi
+graph analysis
 classless domain rout
-temporal analysi
+temporal analysis
 molecular graph
 state information
 pain
@@ -19460,7 +19455,7 @@ porcine reproductive and syndrome
 self avoiding walk
 ampere
 modulo theorie
-answer programm
+answer programming
 query
 pseudo
 feasible reason
@@ -19597,14 +19592,14 @@ dynamic array
 rf amplifier
 model transformation
 spindle
-gene expression programm
+gene expression programming
 non cell lung carcinoma
 intracranial pressure
 natural killer cells
 blindsight
 ip traceback
 architecture of integrated system
-network analysi
+network analysis
 the open group architecture framework
 modular neural network
 desktop computer
@@ -19627,8 +19622,8 @@ momentary assessment
 radio frequency
 dimensions
 on applied comput
-real timer path plann
-real time path plann
+real timer path planning
+real time path planning
 pu
 universal theorem
 blind
@@ -19691,7 +19686,7 @@ game mechanics
 petri net
 mst
 unified medical system
-finite analysi
+finite analysis
 test vectors
 open road toll
 sports
@@ -19720,7 +19715,7 @@ god
 online aggregation
 european journal of system
 oriented dbm
-order cone programm
+order cone programming
 user
 swf
 cst
@@ -19729,7 +19724,7 @@ milk protein
 imu
 skyline operator
 ecu
-emotion plann
+emotion planning
 apt
 digital signal processor
 research study
@@ -19744,7 +19739,7 @@ program development
 software systemc
 frequency identification
 computer scientist
-social analysi
+social analysis
 biological demand
 exploratory factor analysis
 architecture description language
@@ -19787,7 +19782,7 @@ panax
 national center for geographic information and analysis
 mrp
 worklist
-independent analysi
+independent analysis
 bottleneck method
 simplex feature
 sensitive grammar
@@ -19935,7 +19930,7 @@ io
 related macular degeneration
 ivr
 live metastase
-failure mode and analysi
+failure mode and analysis
 modular design
 journal of automated reason
 marrow biopsy
@@ -19971,7 +19966,7 @@ rationale unified proces
 separator
 current source
 inter domain
-international conferences on logic programm
+international conferences on logic programming
 apache cassandra
 mesh generation
 bradykinesia
@@ -20007,7 +20002,7 @@ review board
 digital humanities
 planner
 pmtct
-fluctuation analysi
+fluctuation analysis
 soft infection
 memory hierarchy
 schistosomiasis
@@ -20105,7 +20100,7 @@ strontium
 fuzzy system
 voltage preference
 mud
-sage analysi
+sage analysis
 endocrine disruptors
 weak
 pyroptosis
@@ -20155,7 +20150,7 @@ iris evaluation
 web of th
 global rain
 bidirectional associative memory
-second border cone programm
+second border cone programming
 fiber optic communication
 thymidine
 particle size
@@ -20222,7 +20217,7 @@ oxide synthase
 local information systems
 balanced clusters
 mcu
-reactive plann
+reactive planning
 item theory
 insecticide bednet
 fact
@@ -20446,7 +20441,7 @@ architecture of integrated information systems
 dce mri
 malate
 rti
-robust component analysi
+robust component analysis
 china
 amyloidosis
 dosage form
@@ -20485,7 +20480,7 @@ avr
 transferase
 international joint conference on artificial intelligence
 competitive algorithm
-group method data handl
+group method data handling
 ebg
 autoassociative memory
 stat diagram
@@ -20559,7 +20554,7 @@ person name
 solver
 microkernel
 van der pol oscillator
-expression programm
+expression programming
 unstructured light
 laboratory information system
 fcc
@@ -20597,7 +20592,7 @@ tone mapp
 principle least action
 alkanes
 integrated learning system
-advance care plann
+advance care planning
 expensive
 test
 hoarseness
@@ -20891,7 +20886,7 @@ ikeda map
 list decoding
 maple
 evolutionary programme
-national center for geographic formation and analysi
+national center for geographic formation and analysis
 rusle
 mobile cloud computing
 hierarchical hidden markov models
