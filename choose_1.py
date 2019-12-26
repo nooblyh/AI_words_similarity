@@ -26,6 +26,19 @@ for pair in pairs:
         delete_word.append(pair[1])
     elif frequency[pair[0]] < frequency[pair[1]]:
         delete_word.append(pair[0])
+    elif frequency[pair[0]] == frequency[pair[1]] and length_0 == length_1:
+        for w in range(1,length_0):
+            if not pair_list_0[length_0-w] in model or not pair_list_1[length_0-w] in model:
+                continue
+            else:
+                if model.wv.vocab[pair_list_0[length_0-w]].count > model.wv.vocab[pair_list_1[length_0-w]].count:
+                    delete_word.append(pair[1])
+                    end = True
+                    break
+                else:
+                    delete_word.append(pair[0])
+                    end = True
+                    break
     else:
         print("搞不定这对",pair[0],pair[1])
         count+=1
